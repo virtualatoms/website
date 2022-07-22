@@ -1,9 +1,55 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-<title>Virtual Atoms Lab -- Coming Soon</title>
-</head>
-<body>
-<p>Website coming soon</p>
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Virtual Atoms Lab</title>
+    <meta name="author" content="name" />
+    <meta name="description" content="description here" />
+    <meta name="keywords" content="keywords,here" />
+   <link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+
+    <script src="https://cdn.tailwindcss.com?plugins=forms,typography"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+        fontFamily: {
+            'sans': ['"Work Sans"', 'Roboto', '"Open Sans"', 'sans-serif'],
+          }
+        }
+      }
+    </script>
+    <!--Replace with your tailwind.css once created-->
+  </head>
+  <body class="bg-white font-sans leading-normal tracking-normal">
+    <div class="flex flex-col h-screen">
+    <nav id="header" class="w-full top-0 font-sans z-10 bg-white">
+      <div class="w-full mx-auto flex flex-wrap items-center justify-between mt-0 py-5">
+        <div class="pl-8">
+          <a class="text-gray-900 text-base no-underline hover:no-underline hover:text-amber-400 font-light text-xl small-caps" href="#" style="font-variant-caps: small-caps;">
+          virtual atoms lab
+          </a>
+        </div>
+        <div class="w-full flex-grow md:flex md:items-center md:w-auto hidden md:block mt-2 md:mt-0 pr-8" id="nav-content">
+          <ul class="list-reset md:flex justify-end flex-1 items-center" style="font-variant-caps: small-caps;">
+            <li class="mr-3">
+              <a class="inline-block text-gray-900 no-underline hover:text-amber-400 font-light text-xl pl-4" href="#">team</a>
+            </li>
+            <li class="mr-3">
+              <a class="inline-block text-gray-900 no-underline hover:text-amber-400 font-light text-xl pl-4" href="#">papers</a>
+            </li>
+            <li class="mr-3">
+              <a class="inline-block text-gray-900 no-underline hover:text-amber-400 font-light text-xl pl-4" href="#">codes</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <!--Container-->
+    <div class="overflow-hidden h-full flex flex-grow fixed z-0">
+      <img src="hero.jpg" srcset="hero@2.jpg 2x" class="object-cover" alt="Homage to David Batchelor.">
+    </div>
+    </div>
+  </body>
 </html>
