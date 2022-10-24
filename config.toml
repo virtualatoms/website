@@ -1,4 +1,4 @@
-baseURL = 'http://virtualatoms.org/'
+baseURL = 'https://virtualatoms.org/'
 languageCode = 'en-gb'
 title = 'Virtual Atoms Lab'
 sectionPagesMenu = "main"
