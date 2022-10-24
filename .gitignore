@@ -20,7 +20,6 @@ dist
 node_modules
 package-lock.json
 *.log
-.*
 !*/*.babelrc.js
 !.dockerignore
 !.editorconfig
