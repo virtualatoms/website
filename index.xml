@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Virtual Atoms Lab</title>
+    <link>http://example.org/</link>
+    <description>Recent content in Home on Virtual Atoms Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Oct 2022 22:37:47 +0100</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Codes</title>
+      <link>http://example.org/codes/</link>
+      <pubDate>Wed, 19 Oct 2022 22:37:47 +0100</pubDate>
+      
+      <guid>http://example.org/codes/</guid>
+      <description>Our group actively develops and contributes to open-source software. Much of the software we develop is designed to help manage, analyse, and intepret first-principles calculations. Some of the codes we develop and maintain are listed below. More information can be found on our GitHub page.
+  amset An efficient framework for calculating electron scattering rates from first principles. Code | Paper
+  atomate2 Computational workflows for high-throughput materials science.</description>
+    </item>
+    
+  </channel>
+</rss>
