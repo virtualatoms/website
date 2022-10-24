@@ -1,5 +1,5 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
+baseURL = 'http://virtualatoms.org/'
+languageCode = 'en-gb'
 title = 'Virtual Atoms Lab'
 sectionPagesMenu = "main"
 

@@ -4,9 +4,9 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-  <meta name="author" content="name" />
-  <meta name="description" content="description here" />
-  <meta name="keywords" content="keywords,here" />
+  <meta name="author" content="Virtual Atoms Lab" />
+  <meta name="description" content="Welcome to the website of the Virtual Atoms Lab" />
+  <meta name="keywords" content="virtualatoms,dft,ml,research,alex ganose" />
   {{ if isset .Params "title" }}
     <title>{{ site.Title }} | {{ .Title }}</title>
   {{ else }}
@@ -17,7 +17,20 @@
   <link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;600&family=Eczar:wght@600&display=swap" rel="stylesheet">
 </head>
 <body>
-  {{ partial "nav.html" . }}
+  <nav aria-label="Main Navigation">
+  <div>
+    <a class="home" href="/"></a>
+  </div>
+  <div class="nav-content">
+    <ul>
+    {{- range .Site.Menus.main -}}
+      <li>
+        <a href="{{ .URL }}">{{ lower .Name }}</a>
+      </li>
+    {{ end }}
+    </ul>
+    </div>
+</nav>
   {{- block "main" .}}{{- end}}
 </body>
 </html>
