@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://virtualatoms.org/codes/</loc>
+    <loc>https://virtualatoms.org/codes/</loc>
     <lastmod>2022-10-19T22:37:47+01:00</lastmod>
   </url><url>
-    <loc>http://virtualatoms.org/</loc>
+    <loc>https://virtualatoms.org/</loc>
     <lastmod>2022-10-19T22:37:47+01:00</lastmod>
   </url><url>
-    <loc>http://virtualatoms.org/papers/</loc>
+    <loc>https://virtualatoms.org/papers/</loc>
     <lastmod>2022-10-19T22:37:47+01:00</lastmod>
   </url><url>
-    <loc>http://virtualatoms.org/research/</loc>
+    <loc>https://virtualatoms.org/research/</loc>
     <lastmod>2022-10-19T22:37:47+01:00</lastmod>
   </url><url>
-    <loc>http://virtualatoms.org/team/</loc>
+    <loc>https://virtualatoms.org/team/</loc>
     <lastmod>2022-10-19T22:37:47+01:00</lastmod>
   </url><url>
-    <loc>http://virtualatoms.org/categories/</loc>
+    <loc>https://virtualatoms.org/categories/</loc>
   </url><url>
-    <loc>http://virtualatoms.org/tags/</loc>
+    <loc>https://virtualatoms.org/tags/</loc>
   </url>
 </urlset>
