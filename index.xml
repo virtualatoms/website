@@ -18,5 +18,36 @@
   atomate2 Computational workflows for high-throughput materials science.</description>
     </item>
     
+    <item>
+      <title>Papers</title>
+      <link>http://example.org/papers/</link>
+      <pubDate>Wed, 19 Oct 2022 22:37:47 +0100</pubDate>
+      
+      <guid>http://example.org/papers/</guid>
+      <description>Preprints  &amp;ldquo;The temperature-dependence of carrier mobility is not a reliable indicator of the dominant scattering mechanism&amp;rdquo; arXiv:2210.01746 &amp;ldquo;Learned Force Fields Are Ready For Ground State Catalyst Discovery&amp;rdquo; arXiv:2209.12466 &amp;ldquo;High-throughput determination of Hubbard U and Hund J values for transition metal oxides via linear response formalism&amp;rdquo; arXiv:2201.04213  2022  &amp;ldquo;Band versus Polaron: Charge Transport in Antimony Chalcogenides&amp;rdquo; ACS Energy Letters (2022)
+  &amp;ldquo;The defect challenge of wide-bandgap semiconductors for photovoltaics and beyond&amp;rdquo; Nature Communications (2022)</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>http://example.org/research/</link>
+      <pubDate>Wed, 19 Oct 2022 22:37:47 +0100</pubDate>
+      
+      <guid>http://example.org/research/</guid>
+      <description>Research page.</description>
+    </item>
+    
+    <item>
+      <title>Team</title>
+      <link>http://example.org/team/</link>
+      <pubDate>Wed, 19 Oct 2022 22:37:47 +0100</pubDate>
+      
+      <guid>http://example.org/team/</guid>
+      <description> Dr Alex Ganose  Testing definition list
+   PhD students  Yifan Wu  Testing definition list
+   : Testing definition list
+ </description>
+    </item>
+    
   </channel>
 </rss>
