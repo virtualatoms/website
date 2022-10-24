@@ -1,0 +1,27 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Virtual Atoms Lab'
+sectionPagesMenu = "main"
+
+[markup.goldmark.parser.attribute]
+block = true
+[markup.goldmark.renderer]
+unsafe = true
+
+[menu]
+[[menu.main]]
+  name = 'Research'
+  url = '/research'
+  weight = 10
+[[menu.main]]
+  name = 'Team'
+  url = '/team'
+  weight = 20
+[[menu.main]]
+  name = 'Papers'
+  url = '/papers'
+  weight = 30
+[[menu.main]]
+  name = 'Codes'
+  url = '/codes'
+  weight = 40

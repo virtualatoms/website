@@ -1,0 +1,14 @@
+<nav aria-label="Main Navigation">
+  <div>
+    <a class="home" href="/"></a>
+  </div>
+  <div class="nav-content">
+    <ul>
+    {{- range .Site.Menus.main -}}
+      <li>
+        <a href="{{ .URL }}">{{ lower .Name }}</a>
+      </li>
+    {{ end }}
+    </ul>
+    </div>
+</nav>

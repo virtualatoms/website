@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <meta name="author" content="name" />
+  <meta name="description" content="description here" />
+  <meta name="keywords" content="keywords,here" />
+  {{ if isset .Params "title" }}
+    <title>{{ site.Title }} | {{ .Title }}</title>
+  {{ else }}
+    <title>{{ .Title }}</title>
+  {{ end }}
+  <meta property="og:title" content="{{ site.Title }}" />
+  <link rel="stylesheet" href="/assets/main.css">
+  <link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;600&family=Eczar:wght@600&display=swap" rel="stylesheet">
+</head>
+<body>
+  {{ partial "nav.html" . }}
+  {{- block "main" .}}{{- end}}
+</body>
+</html>

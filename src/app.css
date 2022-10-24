@@ -1,0 +1,165 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.home {
+  background-image: url("assets/gh-logo-light-long.svg");
+  width: calc(100px*1.1);
+  height: calc(38px*1.1);
+  cursor: pointer;
+  display: block;
+}
+
+body {
+  @apply text-dark bg-white font-sans
+}
+
+h1 {
+  @apply text-5xl font-serif pb-10
+}
+
+h2 {
+  @apply text-3xl font-serif pt-8 pb-2 
+}
+
+h3 {
+  @apply text-3xl font-serif pb-2 
+}
+
+.sumo {
+  content: url('assets/sumo-logo.svg'); 
+  display: inline-block; 
+  position: relative;
+  width: 140px;
+  top: 5px;
+}
+
+.amset {
+  content: url('assets/amset_logo.png'); 
+  display: inline-block; 
+  position: relative;
+  width: 150px;
+  top: 5px;
+}
+
+.atomate2 {
+  content: url('assets/atomate_logo_small.png'); 
+  display: inline-block; 
+  position: relative;
+  width: 180px;
+  top: 5px;
+}
+
+.ifermi {
+  content: url('assets/ifermi-logo.png'); 
+  display: inline-block; 
+  position: relative;
+  width: 180px;
+  top: 5px;
+}
+
+.robocrys {
+  content: url('assets/robocrys-logo.png'); 
+  display: inline-block; 
+  position: relative;
+  width: 200px;
+  top: 5px;
+}
+
+.code::before {
+  content: url('assets/code-icon.svg'); 
+  display: inline-block; 
+  position: relative;
+  width: 25px;
+  top: 6px;
+  cursor: pointer;
+}
+.code:hover::before {
+  content: url('assets/code-icon-full.svg'); 
+}
+.code:hover a {
+  @apply border-b-4
+}
+.code {
+  cursor: pointer;
+}
+
+.paper::before {
+  content: url('assets/paper-icon.svg'); 
+  display: inline-block; 
+  position: relative;
+  width: 24px;
+  cursor: pointer;
+  top: 6px;
+}
+.paper:hover::before {
+  content: url('assets/paper-icon-full.svg'); 
+}
+.paper:hover a {
+  @apply border-b-4
+}
+.paper {
+  cursor: pointer;
+}
+
+.nav-content {
+  @apply hidden md:flex md:items-center
+}
+
+nav {
+  @apply w-full flex justify-between mt-0 py-5 px-8
+}
+
+nav a {
+  @apply inline-block text-gray-900 no-underline hover:text-light text-dark text-2xl pl-4
+}
+
+nav li {
+  @apply mr-3
+}
+
+nav ul {
+  font-variant-caps: small-caps;
+  @apply flex 
+}
+
+.content-container {
+  max-width: 940px;
+  @apply px-20 mt-8 mx-auto text-lg text-dark mb-14 h-full w-full 
+}
+
+.content-container a {
+  @apply font-semibold border-solid border-b 
+}
+
+.content-container a:hover {
+  @apply border-b-4
+}
+
+.content-container ol {
+  @apply list-decimal pl-10
+}
+
+.content-container ul {
+  @apply list-disc  pl-10
+}
+
+dl {
+  display: grid;
+  grid-template-columns: min-content auto;
+  margin-left: -60px;
+  @apply mt-8 items-center 
+}
+
+dt {
+  text-align: center;
+  @apply pr-6;
+}
+
+dd {
+  @apply my-6;
+}
+
+dd h2 {
+  @apply text-2xl font-serif pt-0 pb-0 
+}
