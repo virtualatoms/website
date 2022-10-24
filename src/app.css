@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 .home {
-  background-image: url("assets/gh-logo-light-long.svg");
+  background-image: url("assets/virtualatoms-logo.svg");
   width: calc(100px*1.1);
   height: calc(38px*1.1);
   cursor: pointer;
@@ -35,7 +35,7 @@ h3 {
 }
 
 .amset {
-  content: url('assets/amset_logo.png'); 
+  content: url('assets/amset-logo.png'); 
   display: inline-block; 
   position: relative;
   width: 150px;
@@ -43,7 +43,7 @@ h3 {
 }
 
 .atomate2 {
-  content: url('assets/atomate_logo_small.png'); 
+  content: url('assets/atomate2-logo.png'); 
   display: inline-block; 
   position: relative;
   width: 180px;
