@@ -26,8 +26,8 @@ Our group actively develops and contributes to open-source software. Much of the
 
     Tools for the generation, analysis and visualisation of Fermi surfaces.
 
-    <span class="code"><a href="https://github.com/SMTG-UCL/sumo">Code</a></span>  | 
-    <span class="paper"><a href="https://doi.org/10.21105/joss.00717">Paper</a></span> 
+    <span class="code"><a href="https://github.com/fermisurfaces/ifermi">Code</a></span>  | 
+    <span class="paper"><a href="https://doi.org/10.21105/joss.03089">Paper</a></span> 
 
 <span class="sumo"></span>
 :   ## sumo 
