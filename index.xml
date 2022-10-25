@@ -14,8 +14,9 @@
       
       <guid>https://virtualatoms.org/codes/</guid>
       <description>Our group actively develops and contributes to open-source software. Much of the software we develop is designed to help manage, analyse, and intepret first-principles calculations. Some of the codes we develop and maintain are listed below. More information can be found on our GitHub page.
-  amset An efficient framework for calculating electron scattering rates from first principles. Code | Paper
-  atomate2 Computational workflows for high-throughput materials science.</description>
+amset An efficient framework for calculating electron scattering rates from first principles. Code | Paper
+atomate2 Computational workflows for high-throughput materials science. Code
+IFermi Tools for the generation, analysis and visualisation of Fermi surfaces.</description>
     </item>
     
     <item>
@@ -24,8 +25,8 @@
       <pubDate>Wed, 19 Oct 2022 22:37:47 +0100</pubDate>
       
       <guid>https://virtualatoms.org/papers/</guid>
-      <description>Preprints  &amp;ldquo;The temperature-dependence of carrier mobility is not a reliable indicator of the dominant scattering mechanism&amp;rdquo; arXiv:2210.01746 &amp;ldquo;Learned Force Fields Are Ready For Ground State Catalyst Discovery&amp;rdquo; arXiv:2209.12466 &amp;ldquo;High-throughput determination of Hubbard U and Hund J values for transition metal oxides via linear response formalism&amp;rdquo; arXiv:2201.04213  2022  &amp;ldquo;The defect challenge of wide-bandgap semiconductors for photovoltaics and beyond&amp;rdquo; Nature Communications (2022)
-  &amp;ldquo;Band versus Polaron: Charge Transport in Antimony Chalcogenides&amp;rdquo; ACS Energy Letters (2022)</description>
+      <description>Preprints &amp;ldquo;The temperature-dependence of carrier mobility is not a reliable indicator of the dominant scattering mechanism&amp;rdquo; arXiv:2210.01746 &amp;ldquo;Learned Force Fields Are Ready For Ground State Catalyst Discovery&amp;rdquo; arXiv:2209.12466 &amp;ldquo;High-throughput determination of Hubbard U and Hund J values for transition metal oxides via linear response formalism&amp;rdquo; arXiv:2201.04213 2022 &amp;ldquo;The defect challenge of wide-bandgap semiconductors for photovoltaics and beyond&amp;rdquo; Nature Communications (2022)
+&amp;ldquo;Band versus Polaron: Charge Transport in Antimony Chalcogenides&amp;rdquo; ACS Energy Letters (2022)</description>
     </item>
     
     <item>
