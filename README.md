@@ -28,9 +28,8 @@ npm install
 ### Local development
 
 For development purposes, a local web server with automatic refresh is provided.
-This will run webpack to compile the javascript, css, and image assets and then run
-hugo to build and serve the static site.
-The web server can be started through
+This will run webpack to compile javascript, css, and image assets and then run
+hugo to build and serve the static site. The web server can be started through
 
 ```bash
 npm start
