@@ -34,8 +34,8 @@ Our group actively develops and contributes to open-source software. Much of the
 
     Heavyweight plotting tools for ab initio calculations.
 
-    <span class="code"><a href="github.com">Code</a></span>  | 
-    <span class="paper"><a href="github.com">Paper</a></span> 
+    <span class="code"><a href="https://github.com/SMTG-UCL/sumo">Code</a></span>  | 
+    <span class="paper"><a href="https://doi.org/10.21105/joss.00717">Paper</a></span> 
 
 <span class="robocrys"></span>
 :   ## robocrystallographer 
