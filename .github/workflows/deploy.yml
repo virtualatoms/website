@@ -8,10 +8,10 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    
+
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
-      
+
     steps:
       - uses: actions/checkout@v3
 
@@ -25,9 +25,6 @@ jobs:
 
       - name: Build for production
         run: npm run build
-
-      - name: Copy CNAME
-        run: cp CNAME public
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
