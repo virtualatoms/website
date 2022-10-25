@@ -1,8 +1,46 @@
-Need hugo and npm installed.
+View at [virtualatoms.org](https://virtualatoms.org)
+
+# Virtual Atoms Website
+
+This repository contains the content and code for the Virtual Atoms Lab website.
+The site html is generated using the [hugo framework](https://gohugo.io) with javascript,
+css, and image assets managed by [webpack](https://webpack.js.org). The website was designed
+and developed by Alex Ganose. 
+
+The page contents can be found in the `./content` directory and are stored as markdown
+files. The rest of the files contain the website design and asset files.
+
+### Requirements
+
+The website requires hugo and node.js to be installed. On macOS, this is simple if
+[homebrew](https:/brew.sh) is installed. Just run
+
+```bash
+brew install hugo node
+```
+
+Webpack and additional plugins needed for building the website can be installed through
+
+```bash
+npm install
+```
+
+### Local development
+
+For development purposes, a local web server with automatic refresh can be launched through
+
+```bash
+npm start
+```
+
+This will run webpack to compile the javascript, css, and image assets and then run hugo to build and serve
+the static site.
+
+### Building the production site
+
+When building the site for production, all assets will be minimised to reduce file size and improve loading times.
+The website will be built to the `./public` folder. The production site can built using
 
 ```
-npm install
-
-npm start # to start build webpack and start server
-npm run build # to build website
+npm run build
 ```
