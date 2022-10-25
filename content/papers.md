@@ -12,13 +12,15 @@ draft: false
 
 ## 2022
 
-1. "Band versus Polaron: Charge Transport in Antimony Chalcogenides" [ACS Energy Letters (2022)](https://doi.org/10.1021/acsenergylett.2c01464)
 1. "The defect challenge of wide-bandgap semiconductors for photovoltaics and beyond" [Nature Communications (2022)](https://doi.org/10.1038/s41467-022-32131-4)
+1. "Band versus Polaron: Charge Transport in Antimony Chalcogenides" [ACS Energy Letters (2022)](https://doi.org/10.1021/acsenergylett.2c01464)
 1. "Free energy predictions for crystal stability and synthesisability" [Digital Discovery (2022)](https://doi.org/10.1039/D2DD00050D)
 1. "How to analyse a density of states" [Materials Today Electronics (2022)](https://doi.org/10.1016/j.mtelec.2022.100002)
 1. "Band gap opening from displacive instabilities in layered covalent-organic frameworks" [Journal of Materials Chemistry A (2022)](https://doi.org/10.1039/D2TA02993F)
 1. "Computational prediction and experimental realisation of earth abundant transparent conducting oxide Ga-doped ZnSb<sub>2</sub>O<sub>6</sub>" [ACS Energy Letters (2022)](https://doi.org/10.1021/acsenergylett.2c01961)
 1. "Indium-free CIGS analogues: general discussion" [Faraday Discussions (2022)](https://doi.org/10.1039/D2FD90055F)
+1. "Novel chalcogenides, pnictides and defect-tolerant semiconductors: general discussion" [Faraday Discussions (2022)](https://doi.org/10.1039/D2FD90057B)
+1. "Materials design and bonding: general discussion" [Faraday Discussions (2022)](https://doi.org/10.1039/d2fd90058k)
 1. "Lone pair driven anisotropy in antimony chalcogenide semiconductors" [Physical Chemistry Chemical Physics (2022)](https://doi.org/10.1039/D1CP05373F)
 
    ## 2021
