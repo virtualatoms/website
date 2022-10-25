@@ -4,7 +4,7 @@
 /assets/jsconfig.json
 hugo_stats.json
 /node_modules/
-/static/
+/static/assets/
 
 # Executable may be added to repository
 hugo.exe
