@@ -2,6 +2,7 @@ baseURL = 'https://virtualatoms.org/'
 languageCode = 'en-gb'
 title = 'Virtual Atoms Lab'
 sectionPagesMenu = "main"
+disableKinds = ["taxonomy", "term"]
 
 [markup.goldmark.parser.attribute]
 block = true
