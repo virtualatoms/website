@@ -11,7 +11,7 @@ draft: false
 ## PhD Students
 
 - **Yifan Wu** | *Accelerating materials synthesis and computation*
-- **Ruiqi Wu** | *Designing novel photovoltaics through machine learning** 
+- **Ruiqi Wu** | *Designing novel photovoltaics through machine learning*
 
 ## Masters Students
 
