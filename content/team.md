@@ -10,9 +10,9 @@ draft: false
 
 ## PhD Students
 
-- **Yifan Wu** | *Accelerating materials synthesis and computation*
-- **Ruiqi Wu** | *Designing novel photovoltaics through machine learning*
+- **Yifan Wu**  *Accelerating materials synthesis and computation*
+- **Ruiqi Wu**  *Designing novel photovoltaics through machine learning*
 
 ## Masters Students
 
-- **Leo Lou** | *Equivariant models for anisotropic physical properties*
+- **Leo Lou**  *Equivariant models for anisotropic physical properties*
