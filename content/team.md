@@ -10,7 +10,7 @@ draft: false
 
 ### We're hiring!
 
-We have positions available. Please get in touch for more details [by email](mailto:a.ganose@imperial.ac.uk).
+We have positions available. Please get in touch with Dr. Ganose [by email](mailto:a.ganose@imperial.ac.uk) for more details.
 
 #### UROP position for summer 2023
 
@@ -32,6 +32,10 @@ Support is available for postdoctoral fellowship applications, including Royal C
 
 </div>
 </div>
+
+<div class="team-container">
+
+## Principle Investigator
 
 <span class="team"><img src="../team_alex_ganose.jpg"></span>
 :   ## Dr. Alex Ganose 
@@ -73,3 +77,5 @@ Support is available for postdoctoral fellowship applications, including Royal C
     Project: *Equivariant models for anisotropic physical properties*
 
     <hr style="height:10px; visibility:hidden;" />
+
+</div>
