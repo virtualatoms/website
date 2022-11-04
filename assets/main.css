@@ -573,8 +573,8 @@ h4 {
   overflow: visible;
   z-index: 1;
   margin-bottom: 50px;
-  margin-left: -50px;
-  margin-right: -20px;
+  margin-left: -20px;
+  margin-right: 0px;
 }
 .banner-inner {
   position: relative;
@@ -601,6 +601,10 @@ h4 {
 }
 .banner p {
   padding-bottom: 1em;
+}
+
+.team-container dl {
+  margin-left: 0px;
 }
 
 .team {
