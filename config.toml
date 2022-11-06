@@ -26,3 +26,7 @@ unsafe = true
   name = 'Codes'
   url = '/codes'
   weight = 40
+[[menu.main]]
+  name = 'Join Us'
+  url = '/join'
+  weight = 50
