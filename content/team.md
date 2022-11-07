@@ -29,6 +29,8 @@ draft: false
 
     Project: *Accelerating materials synthesis and computation*
 
+    Cosupervisor: *Aron Walsh*
+
     <hr style="height:10px; visibility:hidden;" />
 
 
@@ -36,6 +38,15 @@ draft: false
 :   ## Ruiqi Wu
 
     Project: *Designing novel photovoltaics through machine learning*
+
+    <hr style="height:10px; visibility:hidden;" />
+
+<span class="team"><img src=""></span>
+:   ## Irea Mosquera Louis
+
+    Project: *Defect representations in solid-state materials*
+
+    Cosupervisor: *Aron Walsh*
 
     <hr style="height:10px; visibility:hidden;" />
 
