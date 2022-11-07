@@ -204,7 +204,7 @@ const noise = `
 
 class WebGL {
   constructor() {
-    this.renderer = new THREE.WebGLRenderer({ antialias: true });
+    this.renderer = new THREE.WebGLRenderer({ });
     this.camera = new THREE.PerspectiveCamera(
       45,
       innerWidth / innerHeight,
@@ -214,6 +214,10 @@ class WebGL {
     this.scene = new THREE.Scene();
     this.scene.background = new THREE.Color( 0xffffff );
     this.clock = new THREE.Clock();
+    this.clock2 = new THREE.Clock();
+    this.delta = 0;
+    this.interval = 1 / 60;
+
 
     this.renderer.outputEncoding = THREE.sRGBEncoding;
 
@@ -221,9 +225,6 @@ class WebGL {
     this.onResize = this.onResize.bind(this);
   }
 
-  // Coloca el objeto renderer dentro del DOM
-  // Instaciamos la clase OrbitControls para mover la camara
-  // Agrega la camara y el objeto group dentro de la escena
   init() {
     const _contentCanvas = document.querySelector("#content-canvas");
 
@@ -247,7 +248,7 @@ class WebGL {
   initFn() {
     this.addMesh();
     this.addLight();
-    // this.addPostProcessing();
+    this.addPostProcessing();
     this.update();
     this.onResize();
     window.addEventListener("resize", this.onResize);
@@ -336,9 +337,17 @@ class WebGL {
   }
 
   update() {
-    this.uniforms.uTime.value = this.clock.getElapsedTime() * 1;
     requestAnimationFrame(this.update);
-    this.render();
+    this.uniforms.uTime.value = this.clock.getElapsedTime() * 1;
+    this.delta += this.clock2.getDelta();
+
+    if (this.delta  > this.interval) {
+        // The draw or time dependent code are here
+        this.render();
+ 
+        this.delta = this.delta % this.interval;
+    }
+    // this.render();
   }
 
   addLight() {
@@ -360,19 +369,19 @@ class WebGL {
   }
 
   addPostProcessing() {
-    // this.effectComposer = new EffectComposer(this.renderer);
-    // this.effectComposer.renderToScreen = true;
-    // this.effectComposer.setSize(
-    //   window.innerWidth * window.devicePixelRatio,
-    //   window.innerHeight * window.devicePixelRatio
-    // );
+    this.effectComposer = new EffectComposer(this.renderer);
+    this.effectComposer.renderToScreen = true;
+    this.effectComposer.setSize(
+      window.innerWidth * window.devicePixelRatio,
+      window.innerHeight * window.devicePixelRatio
+    );
 
-    // this.renderPass = new RenderPass(this.scene, this.camera);
-    // this.effectComposer.addPass(this.renderPass);
+    this.renderPass = new RenderPass(this.scene, this.camera);
+    this.effectComposer.addPass(this.renderPass);
 
-    // this.RGBShiftPass = new ShaderPass(RGBShiftShader);
-    // this.RGBShiftPass.material.uniforms.amount.value = 0.0015
-    // this.effectComposer.addPass(this.RGBShiftPass);
+    this.RGBShiftPass = new ShaderPass(RGBShiftShader);
+    this.RGBShiftPass.material.uniforms.amount.value = 0.0015
+    this.effectComposer.addPass(this.RGBShiftPass);
 
     // this.FXAAPass = new ShaderPass(FXAAShader);
     // this.FXAAPass.material.uniforms.resolution.value = new THREE.Vector2( 
@@ -397,20 +406,14 @@ class WebGL {
     this.effectComposer.setSize(_w, _h);
     this.camera.aspect = _w / _h;
 
-    this.FXAAPass.material.uniforms.resolution.value.x = 1 / window.innerWidth;
-    this.FXAAPass.material.uniforms.resolution.value.y = 1 / window.innerHeight;
+    // this.FXAAPass.material.uniforms.resolution.value.x = 1 / window.innerWidth;
+    // this.FXAAPass.material.uniforms.resolution.value.y = 1 / window.innerHeight;
 
     this.camera.updateProjectionMatrix();
   }
 
   render() {
-    // setTimeout( function() {
-    
-    
-    // }, 1000 / 40 );
-
-      this.renderer.render(this.scene, this.camera);
-    // this.effectComposer.render(this.clock.getDelta());
+    this.effectComposer.render(this.clock.getDelta());
   }
 }
 
