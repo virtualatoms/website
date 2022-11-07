@@ -11,6 +11,24 @@ var SphericalHarmonics = function(m) {
    this.m = m;
 };
 
+export function frameThrottle(original) {
+  let pending = false;
+
+  function wrap() {
+      pending = false;
+      original();
+  }
+
+  function proxy() {
+      if (!pending) {
+          pending = true;
+          requestAnimationFrame(wrap);
+      }
+  }
+
+  return proxy;
+}
+
 SphericalHarmonics.prototype = {
    computeVertexFor: function(p,phi,theta) {
        // var r = 0.0001;
@@ -229,7 +247,7 @@ class WebGL {
   initFn() {
     this.addMesh();
     this.addLight();
-    this.addPostProcessing();
+    // this.addPostProcessing();
     this.update();
     this.onResize();
     window.addEventListener("resize", this.onResize);
@@ -318,9 +336,9 @@ class WebGL {
   }
 
   update() {
-    this.render();
     this.uniforms.uTime.value = this.clock.getElapsedTime() * 1;
     requestAnimationFrame(this.update);
+    this.render();
   }
 
   addLight() {
@@ -342,33 +360,33 @@ class WebGL {
   }
 
   addPostProcessing() {
-    this.effectComposer = new EffectComposer(this.renderer);
-    this.effectComposer.renderToScreen = true;
-    this.effectComposer.setSize(
-      window.innerWidth * window.devicePixelRatio,
-      window.innerHeight * window.devicePixelRatio
-    );
+    // this.effectComposer = new EffectComposer(this.renderer);
+    // this.effectComposer.renderToScreen = true;
+    // this.effectComposer.setSize(
+    //   window.innerWidth * window.devicePixelRatio,
+    //   window.innerHeight * window.devicePixelRatio
+    // );
 
-    this.renderPass = new RenderPass(this.scene, this.camera);
-    this.effectComposer.addPass(this.renderPass);
+    // this.renderPass = new RenderPass(this.scene, this.camera);
+    // this.effectComposer.addPass(this.renderPass);
 
-    this.RGBShiftPass = new ShaderPass(RGBShiftShader);
-    this.RGBShiftPass.material.uniforms.amount.value = 0.0015
-    this.effectComposer.addPass(this.RGBShiftPass);
+    // this.RGBShiftPass = new ShaderPass(RGBShiftShader);
+    // this.RGBShiftPass.material.uniforms.amount.value = 0.0015
+    // this.effectComposer.addPass(this.RGBShiftPass);
 
-    this.FXAAPass = new ShaderPass(FXAAShader);
-    this.FXAAPass.material.uniforms.resolution.value = new THREE.Vector2( 
-        1 / window.innerWidth, 1 / window.innerHeight 
-    );
-    this.effectComposer.addPass(this.FXAAPass);
+    // this.FXAAPass = new ShaderPass(FXAAShader);
+    // this.FXAAPass.material.uniforms.resolution.value = new THREE.Vector2( 
+    //     1 / window.innerWidth, 1 / window.innerHeight 
+    // );
+    // this.effectComposer.addPass(this.FXAAPass);
 
-    const filmPass = new FilmPass(
-      0.35, // noise intensity
-      0.025, // scanline intensity
-      648, // scanline count
-      false // grayscale
-    );
-    this.effectComposer.addPass(filmPass);
+    // const filmPass = new FilmPass(
+    //   0.35, // noise intensity
+    //   0.025, // scanline intensity
+    //   648, // scanline count
+    //   false // grayscale
+    // );
+    // this.effectComposer.addPass(filmPass);
   }
 
   onResize() {
@@ -386,7 +404,13 @@ class WebGL {
   }
 
   render() {
-    this.effectComposer.render(this.clock.getDelta());
+    // setTimeout( function() {
+    
+    
+    // }, 1000 / 40 );
+
+      this.renderer.render(this.scene, this.camera);
+    // this.effectComposer.render(this.clock.getDelta());
   }
 }
 
