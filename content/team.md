@@ -32,7 +32,7 @@ draft: false
     <hr style="height:10px; visibility:hidden;" />
 
 
-<span class="team"><img src=""></span>
+<span class="team"><img src="../team_ruiqi_wu.jpg"></span>
 :   ## Ruiqi Wu
 
     Project: *Designing novel photovoltaics through machine learning*
