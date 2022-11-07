@@ -13,7 +13,7 @@ draft: false
 
     Lecturer, Imperial College London 
     
-    Co-investigator, Materials Project
+    Co-investigator, [Materials Project](https://materialsproject.org)
 
     <hr style="height:10px; visibility:hidden;" />
 
@@ -24,12 +24,12 @@ draft: false
 
 ## PhD Students
 
-<span class="team"><img src=""></span>
+<span class="team"><img src="../team_yifan_wu.jpg"></span>
 :   ## Yifan Wu
 
     Project: *Accelerating materials synthesis and computation*
 
-    Cosupervisor: *Aron Walsh*
+    Co-supervisor: *Prof. Aron Walsh*
 
     <hr style="height:10px; visibility:hidden;" />
 
@@ -46,17 +46,24 @@ draft: false
 
     Project: *Defect representations in solid-state materials*
 
-    Cosupervisor: *Aron Walsh*
+    Co-supervisor: *Prof. Aron Walsh*
 
     <hr style="height:10px; visibility:hidden;" />
 
 
 ## Masters Students
 
-<span class="team"><img src=""></span>
+<span class="team"><img src="../team_leo_lou.jpg"></span>
 :   ## Leo Lou
 
     Project: *Equivariant models for anisotropic physical properties*
+
+    <hr style="height:10px; visibility:hidden;" />
+
+<span class="team"><img src=""></span>
+:   ## Shirui Wang
+
+    Project: *Computational insights into emerging chalcogenide perovskite photovoltaics*
 
     <hr style="height:10px; visibility:hidden;" />
 
