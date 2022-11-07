@@ -218,7 +218,6 @@ class WebGL {
     this.delta = 0;
     this.interval = 1 / 60;
 
-
     this.renderer.outputEncoding = THREE.sRGBEncoding;
 
     this.update = this.update.bind(this);
