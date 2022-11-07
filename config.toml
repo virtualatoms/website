@@ -12,21 +12,21 @@ unsafe = true
 [menu]
 [[menu.main]]
   name = 'Research'
-  url = '/research'
+  url = '/research/'
   weight = 10
 [[menu.main]]
   name = 'Team'
-  url = '/team'
+  url = '/team/'
   weight = 20
 [[menu.main]]
   name = 'Papers'
-  url = '/papers'
+  url = '/papers/'
   weight = 30
 [[menu.main]]
   name = 'Codes'
-  url = '/codes'
+  url = '/codes/'
   weight = 40
 [[menu.main]]
   name = 'Join Us'
-  url = '/join'
+  url = '/join/'
   weight = 50
