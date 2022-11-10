@@ -27,7 +27,7 @@ h3 {
 }
 
 h4 {
-  @apply pb-1  font-bold
+  @apply pb-1 pt-1 font-bold
 }
 
 .banner:before {

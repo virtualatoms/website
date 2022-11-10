@@ -9,12 +9,23 @@ draft: false
 
 ### We're hiring!
 
-We have positions available. Please get in touch with Dr. Ganose [by email](mailto:a.ganose@imperial.ac.uk) for more details.
+We have positions available. Please get in touch with Alex [by email](mailto:a.ganose@imperial.ac.uk) for more details.
 
 #### UROP position for summer 2023
 
 A funded summer project is available for Imperial undergraduates.
 Interested applicants should send their CV and a paragraph on their research interests to Dr. Ganose before 29th November 2022.
+
+#### PhD positions available for 2023
+
+We have a 4-year PhD project available as part of the via the Centre for Doctoral Training in Next Generation Synthesis and 
+Reaction Technology (rEaCt) at Imperial Chemistry.  The title of the project is:
+
+*"Harnessing reactive radical intermediates to design new and more sustainable catalysts”*
+
+This is part of a collaboration with the Roessler and Hellgart groups (Imperial Chemistry), and is part funded by Syngenta. 
+[Email Alex](mailto:a.ganose@imperial.ac.uk) if you’d like more information on any of the project. You can find more information on applying and the kproject summary [on the rEact CDT webpage](https://www.imperial.ac.uk/next-generation-synthesis-reaction-technology/how-to-apply/prospective-students/).
+
 
 #### PhD Scholarships
 
