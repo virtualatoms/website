@@ -41,7 +41,7 @@ draft: false
 
     <hr style="height:10px; visibility:hidden;" />
 
-<span class="team"><img src=""></span>
+<span class="team"><img src="../team_irea_louis.jpg"></span>
 :   ## Irea Mosquera Louis
 
     Project: *Defect representations in solid-state materials*
