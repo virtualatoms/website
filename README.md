@@ -5,7 +5,7 @@ View at [virtualatoms.org](https://virtualatoms.org)
 This repository contains the content and code for the Virtual Atoms website.
 The site is generated using the [hugo framework](https://gohugo.io) with javascript,
 css, and image assets managed by [webpack](https://webpack.js.org). The page contents can 
-be found in the `./content` directory and are stored as markdown files.
+be found in the `content` directory and are stored as markdown files.
 The website was designed and developed by Alex Ganose. 
 
 ### Requirements
@@ -36,7 +36,7 @@ npm start
 ### Building the production site
 
 When building the site for production, all assets will be minimised to reduce file size and improve loading times.
-The website will be built to the `./public` folder. The production site can built using
+The website will be built to the `public` folder. The production site can built using
 
 ```bash
 npm run build
