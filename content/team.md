@@ -60,7 +60,7 @@ draft: false
 
     <hr style="height:10px; visibility:hidden;" />
 
-<span class="team"><img src=""></span>
+<span class="team"><img src="../team_shirui_wang.jpg"></span>
 :   ## Shirui Wang
 
     Project: *Computational insights into emerging chalcogenide perovskite photovoltaics*
