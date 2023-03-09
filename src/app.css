@@ -264,11 +264,12 @@ dl {
   @apply items-start
 }
 
+.codes dl {
+  @apply items-center
+}
+
 .research-container dl {
-  display: grid;
-  grid-template-columns: min-content auto;
   margin-left: -110px;
-  margin-right: -60px;
   @apply items-center
 }
 

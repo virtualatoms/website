@@ -50,7 +50,15 @@ draft: false
 
     Project: *Designing novel photovoltaics through machine learning*
 
-    <hr style="height:10px; visibility:hidden;" />
+    <hr style="height:20px; visibility:hidden;" />
+
+    Ruiqi grew up in China, from a small city where Tofu is believed to originate from.
+    She obtained undergraduate degrees in Materials Engineering at both the University
+    of British Columbia (Canada) and Chongqing University (China) where she investigated metal
+    processing, batteries and transistors. After graduating with a distinction in
+    Advanced Materials Science from UCL, Ruiqi joined the group in November 2022 as
+    the first PhD student, focusing on designing earth-abundant photovoltaics.
+    When she’s not studying, Ruiqi enjoys cooking, manga and fossil hunting.
 
 <span class="team"><img src="../team_yifan_wu.jpg"></span>
 :   ## Yifan Wu
