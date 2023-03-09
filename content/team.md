@@ -9,20 +9,39 @@ draft: false
 ## Principle Investigator
 
 <span class="team"><img src="../team_alex_ganose.jpg"></span>
-:   ## Dr. Alex Ganose 
+:   ## Dr. Alex Ganose
 
-    Lecturer, Imperial College London 
-    
+    Lecturer, Imperial College London
+
     Co-investigator, [Materials Project](https://materialsproject.org)
 
     <hr style="height:10px; visibility:hidden;" />
 
-    <span class="website"><a href="https://www.imperial.ac.uk/people/a.ganose">Website</a></span> | 
-    <span class="scholar"><a href="https://scholar.google.com/citations?user=nVJFXWwAAAAJ&hl=en">Scholar</a></span> | 
-    <span class="code"><a href="https://github.com/utf">GitHub</a></span> 
+    <span class="website"><a href="https://www.imperial.ac.uk/people/a.ganose">Website</a></span> |
+    <span class="scholar"><a href="https://scholar.google.com/citations?user=nVJFXWwAAAAJ&hl=en">Scholar</a></span> |
+    <span class="code"><a href="https://github.com/utf">GitHub</a></span>
+
+    <hr style="height:20px; visibility:hidden;" />
+
+    Alex Ganose is a Lecturer and EPSRC Fellow in the Department of Chemistry at Imperial College London.
+
+    <hr style="height:20px; visibility:hidden;" />
+
+    His research uses computational materials chemistry, machine learning, and data science to design new materials for pressing  problems, including renewable energy generation (photovoltaics & thermoelectrics) and energy storage.
+
+    <hr style="height:20px; visibility:hidden;" />
+
+    Alex was awarded his EngD in chemistry from University College London in 2018, under the supervision of Prof. David Scanlon. After a Postdoctoral position at Berkeley Lab, California he joined Imperial as an EPSRC Fellow in 2021. In 2022, he was appointed as a Lecturer in the Department of Chemistry. He is a co-investigator at the [Materials Project](http://materialsproject.org).
 
 
 ## PhD Students
+
+<span class="team"><img src="../team_ruiqi_wu.jpg"></span>
+:   ## Ruiqi Wu
+
+    Project: *Designing novel photovoltaics through machine learning*
+
+    <hr style="height:10px; visibility:hidden;" />
 
 <span class="team"><img src="../team_yifan_wu.jpg"></span>
 :   ## Yifan Wu
@@ -30,14 +49,6 @@ draft: false
     Project: *Accelerating materials synthesis and computation*
 
     Co-supervisor: *Prof. Aron Walsh*
-
-    <hr style="height:10px; visibility:hidden;" />
-
-
-<span class="team"><img src="../team_ruiqi_wu.jpg"></span>
-:   ## Ruiqi Wu
-
-    Project: *Designing novel photovoltaics through machine learning*
 
     <hr style="height:10px; visibility:hidden;" />
 
