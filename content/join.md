@@ -18,13 +18,11 @@ Interested applicants should send their CV and a paragraph on their research int
 
 #### PhD positions available for 2023
 
-We have a 4-year PhD project available as part of the Centre for Doctoral Training in Next Generation Synthesis and 
-Reaction Technology (rEaCt) at Imperial Chemistry. The title of the project is:
+We have a 3.5-year PhD project available for UK students at Imperial Chemistry. The title of the project is:
 
-*"Harnessing reactive radical intermediates to design new and more sustainable catalysts”*
+*"Machine learning of electronic band structures for materials discovery"*
 
-This is part of a collaboration with the Roessler and Hellgart groups (Imperial Chemistry), and is part funded by Syngenta. 
-Email Alex if you’d like more information on the project. You can find information on applying and the project summary [on the rEact CDT webpage](https://www.imperial.ac.uk/next-generation-synthesis-reaction-technology/how-to-apply/prospective-students/).
+Email Alex if you’d like more information on the project.
 
 #### PhD Scholarships
 

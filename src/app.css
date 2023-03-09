@@ -91,6 +91,13 @@ h4 {
   border-radius: 50%;
 }
 
+
+.research {
+  display: inline-block;
+  position: relative;
+  width: 250px;
+}
+
 .sumo {
   content: url('assets/sumo-logo.svg');
   display: inline-block;
@@ -257,7 +264,16 @@ dl {
   display: grid;
   grid-template-columns: min-content auto;
   margin-left: -50px;
+  margin-right: -60px;
   @apply items-start
+}
+
+.research-container dl {
+  display: grid;
+  grid-template-columns: min-content auto;
+  margin-left: -110px;
+  margin-right: -60px;
+  @apply items-center
 }
 
 dt {

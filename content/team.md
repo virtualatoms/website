@@ -27,11 +27,22 @@ draft: false
 
     <hr style="height:20px; visibility:hidden;" />
 
-    His research uses computational materials chemistry, machine learning, and data science to design new materials for pressing  problems, including renewable energy generation (photovoltaics & thermoelectrics) and energy storage.
+    His research uses computational materials chemistry, machine learning,
+    and data science to design new materials for pressing  problems,
+    including renewable energy generation (photovoltaics & thermoelectrics) and
+    energy storage.
 
     <hr style="height:20px; visibility:hidden;" />
 
-    Alex was awarded his EngD in chemistry from University College London in 2018, under the supervision of Prof. David Scanlon. After a Postdoctoral position at Berkeley Lab, California he joined Imperial as an EPSRC Fellow in 2021. In 2022, he was appointed as a Lecturer in the Department of Chemistry. He is a co-investigator at the [Materials Project](http://materialsproject.org).
+    Alex was awarded his EngD in chemistry from University College London in 2018,
+    under the supervision of Prof. David Scanlon. After a Postdoctoral position at
+    Berkeley Lab, California he joined Imperial as an EPSRC Fellow in 2021.
+    In 2022, he was appointed as a Lecturer in the Department of Chemistry.
+    He is a co-investigator at the [Materials Project](http://materialsproject.org).
+
+    <hr style="height:20px; visibility:hidden;" />
+
+    Contact Dr Alex Ganose at a.ganose AT imperial.ac.uk.
 
 
 ## PhD Students
