@@ -27,7 +27,7 @@ If you're interested in joining the group, please see the [Join Us page](/join) 
 
 <span class="research"><img src="../research_pv.png" style="width:230px; display: block; margin-left: auto; margin-right: auto;"></span>
 :   We design new earth-abundant materials for use in solar cells.
-    We focuss on defect-tolerant materials that can still show high effieciency even
+    We focus on defect-tolerant materials that can still show high efficiency even
     when using low-cost processing methods.
     Using a data-driven approach we can screen large libraries of crystals and we also
     generate our own datasets using high-throughput first-principles calculations.
