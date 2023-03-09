@@ -11,7 +11,7 @@
 }
 
 body {
-  @apply text-dark bg-white font-sans
+  @apply text-dark bg-white font-sans antialiased
 }
 
 h1 {
