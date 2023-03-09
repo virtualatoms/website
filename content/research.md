@@ -25,7 +25,7 @@ If you're interested in joining the group, please see the [Join Us page](/join) 
 ## Photovoltaics
 <hr style="height:10px; visibility:hidden;" />
 
-<span class="research"><img src="../research_pv.png" style="width:230px; display: block; margin-left: auto; margin-right: auto;"></span>
+<span class="research"><img src="../research_pv.jpg" style="width:230px; display: block; margin-left: auto; margin-right: auto;"></span>
 :   We design new earth-abundant materials for use in solar cells.
     We focus on defect-tolerant materials that can still show high efficiency even
     when using low-cost processing methods.
@@ -55,7 +55,7 @@ If you're interested in joining the group, please see the [Join Us page](/join) 
 
 ## Machine learning for chemistry
 
-<span class="research"><img src="../research_ml.png"></span>
+<span class="research"><img src="../research_ml.jpg"></span>
 :   Machine learning (ML) is a powerful tool for accelerating materials discovery.
     We build computational databases of materials properties and apply
     ML to extract chemical trends, predict the properties of
