@@ -530,6 +530,8 @@ body {
   font-family: "Work Sans", Roboto, "Open Sans", sans-serif;
   --tw-text-opacity: 1;
   color: rgb(26 25 41 / var(--tw-text-opacity));
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 h1 {
