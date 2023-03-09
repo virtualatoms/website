@@ -77,10 +77,6 @@ h4 {
   padding-bottom: 1em;
 }
 
-.team-container dl {
-  margin-left: 0px;
-}
-
 .team {
   display: inline-block;
   position: relative;
@@ -275,6 +271,11 @@ dl {
   margin-right: -60px;
   @apply items-center
 }
+
+.team-container dl {
+  margin-left: -10 px;
+}
+
 
 dt {
   text-align: center;

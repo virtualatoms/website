@@ -6,7 +6,6 @@ draft: false
 
 <div class="team-container">
 
-## Principle Investigator
 
 <span class="team"><img src="../team_alex_ganose.jpg"></span>
 :   ## Dr. Alex Ganose
@@ -34,16 +33,15 @@ draft: false
 
     <hr style="height:20px; visibility:hidden;" />
 
-    Alex was awarded his EngD in chemistry from University College London in 2018,
-    under the supervision of Prof. David Scanlon. After a Postdoctoral position at
+    Alex was awarded his EngD in chemistry from University College London in 2018.
+    After a Postdoctoral position at
     Berkeley Lab, California he joined Imperial as an EPSRC Fellow in 2021.
     In 2022, he was appointed as a Lecturer in the Department of Chemistry.
     He is a co-investigator at the [Materials Project](http://materialsproject.org).
 
     <hr style="height:20px; visibility:hidden;" />
 
-    Contact Dr Alex Ganose at a.ganose AT imperial.ac.uk.
-
+    You can contact Dr Alex Ganose [by email](mailto:a.ganose@imperial.ac.uk).
 
 ## PhD Students
 
