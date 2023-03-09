@@ -27,7 +27,7 @@ IFermi Tools for the generation, analysis and visualisation of Fermi surfaces.</
       <guid>https://virtualatoms.org/join/</guid>
       <description>We&amp;rsquo;re hiring! We have positions available. Please get in touch with Alex by email for more details.
 UROP position for summer 2023 A funded summer project is available for Imperial undergraduates. Interested applicants should send their CV and a paragraph on their research interests to Dr. Ganose before 29th November 2022.
-PhD positions available for 2023 We have a 4-year PhD project available as part of the Centre for Doctoral Training in Next Generation Synthesis and Reaction Technology (rEaCt) at Imperial Chemistry.</description>
+PhD positions available for 2023 We have a 3.5-year PhD project available for UK students at Imperial Chemistry. The title of the project is:</description>
     </item>
     
     <item>
@@ -45,7 +45,8 @@ PhD positions available for 2023 We have a 4-year PhD project available as part 
       <pubDate>Wed, 19 Oct 2022 22:37:47 +0100</pubDate>
       
       <guid>https://virtualatoms.org/research/</guid>
-      <description>Research page.</description>
+      <description>Welcome to the Virtual Atoms Lab research group run by Dr Alex Ganose at Imperial College London. We use computational materials chemistry, data-driven approaches, and machine learning to discover new functional materials for photovoltaics, thermoelectrics, and more. We develop a suite of open-source codes to help tackle these challenges. See the codes page for more details.
+We are members of the Institute for Digital Molecular Design and Fabrication (DigiFAB), the Thomas Young Centre (TYC) for Materials Modelling, the Centre for Plastic Electronics (CPE), the Artificial Intelligence Network, and the Materials Project.</description>
     </item>
     
     <item>
@@ -54,11 +55,11 @@ PhD positions available for 2023 We have a 4-year PhD project available as part 
       <pubDate>Wed, 19 Oct 2022 22:37:47 +0100</pubDate>
       
       <guid>https://virtualatoms.org/team/</guid>
-      <description> Principle Investigator Dr. Alex Ganose Lecturer, Imperial College London Co-investigator, Materials Project
+      <description>Principle Investigator Dr. Alex Ganose Lecturer, Imperial College London Co-investigator, Materials Project
 Website | Scholar | GitHub
-PhD Students Yifan Wu Project: Accelerating materials synthesis and computation Co-supervisor: Prof. Aron Walsh
-Ruiqi Wu Project: Designing novel photovoltaics through machine learning Irea Mosquera Louis Project: Defect representations in solid-state materials Co-supervisor: Prof. Aron Walsh
-Masters Students Leo Lou Project: Equivariant models for anisotropic physical properties Shirui Wang Project: Computational insights into emerging chalcogenide perovskite photovoltaics </description>
+Alex Ganose is a Lecturer and EPSRC Fellow in the Department of Chemistry at Imperial College London.
+His research uses computational materials chemistry, machine learning, and data science to design new materials for pressing problems, including renewable energy generation (photovoltaics &amp;amp; thermoelectrics) and energy storage.
+Alex was awarded his EngD in chemistry from University College London in 2018, under the supervision of Prof.</description>
     </item>
     
   </channel>
