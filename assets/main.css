@@ -832,11 +832,12 @@ dl {
   margin-right: -60px;
   align-items: flex-start}
 
+.codes dl {
+  align-items: center;
+}
+
 .research-container dl {
-  display: grid;
-  grid-template-columns: min-content auto;
   margin-left: -110px;
-  margin-right: -60px;
   align-items: center}
 
 .team-container dl {
