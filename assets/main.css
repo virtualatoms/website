@@ -607,10 +607,6 @@ h4 {
   padding-bottom: 1em;
 }
 
-.team-container dl {
-  margin-left: 0px;
-}
-
 .team {
   display: inline-block;
   position: relative;
@@ -840,6 +836,11 @@ dl {
   margin-left: -110px;
   margin-right: -60px;
   align-items: center}
+
+.team-container dl {
+  margin-left: -10 px;
+}
+
 
 dt {
   text-align: center;
