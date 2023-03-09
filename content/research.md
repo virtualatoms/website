@@ -22,7 +22,6 @@ If you're interested in joining the group, please see the [Join Us page](/join) 
 <div class="research-container">
 
 <hr style="height:20px; visibility:hidden;" />
-<hr style="height:1px;" />
 
 ## Photovoltaics
 <hr style="height:10px; visibility:hidden;" />
@@ -39,7 +38,6 @@ If you're interested in joining the group, please see the [Join Us page](/join) 
     **Relevant publication**: "The defect challenge of wide-bandgap semiconductors for photovoltaics and beyond" [Nature Communications (2022)](https://doi.org/10.1038/s41467-022-32131-4)
 
 <hr style="height:20px; visibility:hidden;" />
-<hr style="height:1px;" />
 
 ## Electron-phonon interactions
 
@@ -58,7 +56,6 @@ If you're interested in joining the group, please see the [Join Us page](/join) 
     **Relevant publication**: "Efficient calculation of carrier scattering rates from first principles" [Nature Communications (2021)](https://doi.org/10.1038/s41467-021-22440-5)
 
 <hr style="height:20px; visibility:hidden;" />
-<hr style="height:1px;" />
 
 ## Machine learning for chemistry
 
