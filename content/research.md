@@ -8,7 +8,7 @@ Welcome to the Virtual Atoms Lab research group run by [Dr Alex Ganose](/team) a
 [Imperial College London](https://www.imperial.ac.uk).
 We use computational materials chemistry, data-driven approaches, and machine learning to discover new
 functional materials for photovoltaics, thermoelectrics, and more.
-We develop a suite of open-source codes to help tackle these challenges. See the [codes page](http://localhost:1313/codes/)
+We develop a suite of open-source codes to help tackle these challenges. See the [codes page](/codes)
 for more details.
 
 <hr style="height:20px; visibility:hidden;" />
