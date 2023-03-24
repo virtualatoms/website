@@ -10,6 +10,7 @@ draft: false
 - "Learned Force Fields Are Ready For Ground State Catalyst Discovery" [arXiv:2209.12466](https://arxiv.org/abs/2209.12466)
 - "High-throughput determination of Hubbard U and Hund J values for transition metal oxides via linear response formalism" [arXiv:2201.04213](https://arxiv.org/abs/2201.04213)
 - "Crystal Toolkit: A Web App Framework to Improve Usability and Accessibility of Materials Science Research Algorithms" [arXiv:2302.06147](https://arxiv.org/abs/2302.06147)
+- "Room-temperature stacking disorder in layered covalent-organic frameworks from machine-learning force fields" [ChemRxiv (2023)](https://chemrxiv.org/engage/chemrxiv/article-details/641c8a8962fecd2a8350bc43)
 
 ## 2022
 
