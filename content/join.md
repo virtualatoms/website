@@ -20,7 +20,7 @@ Interested applicants should send their CV and a paragraph on their research int
 
 We have a 3.5-year PhD project available for UK students at Imperial Chemistry. The title of the project is:
 
-*"Machine learning of electronic band structures for materials discovery"*
+*"Machine learning to accelerate the discovery of energy materials"*
 
 Email Alex if you’d like more information on the project.
 
