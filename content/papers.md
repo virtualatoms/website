@@ -10,11 +10,10 @@ draft: false
 - "Learned Force Fields Are Ready For Ground State Catalyst Discovery" [arXiv:2209.12466](https://arxiv.org/abs/2209.12466)
 - "High-throughput determination of Hubbard U and Hund J values for transition metal oxides via linear response formalism" [arXiv:2201.04213](https://arxiv.org/abs/2201.04213)
 - "Crystal Toolkit: A Web App Framework to Improve Usability and Accessibility of Materials Science Research Algorithms" [arXiv:2302.06147](https://arxiv.org/abs/2302.06147)
-- "Room-temperature stacking disorder in layered covalent-organic frameworks from machine-learning force fields" [ChemRxiv (2023)](https://chemrxiv.org/engage/chemrxiv/article-details/641c8a8962fecd2a8350bc43)
 - "Designing transparent conductors using forbidden optical transitions" [arXiv:2303.16994](https://arxiv.org/abs/2303.16994)
 
 ## 2022
-
+1. "Room-temperature stacking disorder in layered covalent-organic frameworks from machine-learning force fields" [Materials Horizons (2023)](https://pubs.rsc.org/en/Content/ArticleLanding/2023/MH/D3MH00314K)
 1. "The defect challenge of wide-bandgap semiconductors for photovoltaics and beyond" [Nature Communications (2022)](https://doi.org/10.1038/s41467-022-32131-4)
 1. "Band versus Polaron: Charge Transport in Antimony Chalcogenides" [ACS Energy Letters (2022)](https://doi.org/10.1021/acsenergylett.2c01464)
 1. "Free energy predictions for crystal stability and synthesisability" [Digital Discovery (2022)](https://doi.org/10.1039/D2DD00050D)
