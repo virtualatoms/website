@@ -12,7 +12,7 @@ draft: false
 - "High-throughput determination of Hubbard U and Hund J values for transition metal oxides via linear response formalism" [arXiv:2201.04213](https://arxiv.org/abs/2201.04213)
 - "Crystal Toolkit: A Web App Framework to Improve Usability and Accessibility of Materials Science Research Algorithms" [arXiv:2302.06147](https://arxiv.org/abs/2302.06147)
 
-## 2023
+  ## 2023
 
 1. "Designing transparent conductors using forbidden optical transitions" [Matter (2023)](https://doi.org/10.1016/j.matt.2023.06.043)
 1. "Room-temperature stacking disorder in layered covalent-organic frameworks from machine-learning force fields" [Materials Horizons (2023)](https://doi.org/10.1039/D3MH00314K)
