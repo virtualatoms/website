@@ -18,7 +18,8 @@ draft: false
 1. "Room-temperature stacking disorder in layered covalent-organic frameworks from machine-learning force fields" [Materials Horizons (2023)](https://doi.org/10.1039/D3MH00314K)
 1. "From Cubic to Hexagonal: Electronic Trends across Metal Halide Perovskite Polytypes" [Journal of Physical Chemistry C (2023)](https://doi.org/10.1021/acs.jpcc.3c01232)
 
-## 2022
+   ## 2022
+
 1. "The defect challenge of wide-bandgap semiconductors for photovoltaics and beyond" [Nature Communications (2022)](https://doi.org/10.1038/s41467-022-32131-4)
 1. "Band versus Polaron: Charge Transport in Antimony Chalcogenides" [ACS Energy Letters (2022)](https://doi.org/10.1021/acsenergylett.2c01464)
 1. "Free energy predictions for crystal stability and synthesisability" [Digital Discovery (2022)](https://doi.org/10.1039/D2DD00050D)
