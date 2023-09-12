@@ -14,6 +14,7 @@ draft: false
 
   ## 2023
 
+1. "Relativistic electronic structure and photovoltaic performance of K<sub>2</sub>CsSb" [Journal of Materials Chemistry A (2023)](https://doi.org/10.1039/D3TA02061D)
 1. "Designing transparent conductors using forbidden optical transitions" [Matter (2023)](https://doi.org/10.1016/j.matt.2023.06.043)
 1. "Room-temperature stacking disorder in layered covalent-organic frameworks from machine-learning force fields" [Materials Horizons (2023)](https://doi.org/10.1039/D3MH00314K)
 1. "From Cubic to Hexagonal: Electronic Trends across Metal Halide Perovskite Polytypes" [Journal of Physical Chemistry C (2023)](https://doi.org/10.1021/acs.jpcc.3c01232)
