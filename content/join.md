@@ -11,18 +11,10 @@ draft: false
 
 We have positions available. Please get in touch with Alex [by email](mailto:a.ganose@imperial.ac.uk) for more details.
 
-#### UROP position for summer 2023
+#### UROP position for summer 2024
 
 A funded summer project is available for Imperial undergraduates.
-Interested applicants should send their CV and a paragraph on their research interests to Dr. Ganose before 29th November 2022.
-
-#### PhD positions available for 2023
-
-We have a 3.5-year PhD project available for UK students at Imperial Chemistry. The title of the project is:
-
-*"Machine learning to accelerate the discovery of energy materials"*
-
-Email Alex if you’d like more information on the project.
+Interested applicants should send their CV and a paragraph on their research interests to Dr. Ganose before 29th November 2023.
 
 #### PhD Scholarships
 
