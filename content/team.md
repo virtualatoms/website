@@ -50,6 +50,10 @@ draft: false
 
     Project: *Designing novel photovoltaics through machine learning*
 
+    <hr style="height:10px; visibility:hidden;" />
+
+    <span class="scholar"><a href="https://scholar.google.com/citations?user=ZBw2oKYAAAAJ&hl=en">Scholar</a></span>
+
     <hr style="height:20px; visibility:hidden;" />
 
     Ruiqi grew up in China, from a small city where Tofu is believed to originate from.
@@ -78,21 +82,33 @@ draft: false
 
     <hr style="height:10px; visibility:hidden;" />
 
-
-## Masters Students
-
 <span class="team"><img src="../team_leo_lou.jpg"></span>
 :   ## Leo Lou
 
-    Project: *Equivariant models for anisotropic physical properties*
+    Project: *Machine learning to accelerate the discovery of energy materials*
+    
+    <hr style="height:10px; visibility:hidden;" />
 
+    <span class="code"><a href="https://github.com/leolou0512">GitHub</a></span>
+    
     <hr style="height:10px; visibility:hidden;" />
 
 <span class="team"><img src="../team_shirui_wang.jpg"></span>
 :   ## Shirui Wang
 
-    Project: *Computational insights into emerging chalcogenide perovskite photovoltaics*
+    Project: *Finite-temperature materials discovery*
 
     <hr style="height:10px; visibility:hidden;" />
+
+
+## Masters Students
+
+<span class="team"></span>
+:   ## Emad Uddin
+
+    Project: *ML accelerated materials discovery*
+
+    <hr style="height:10px; visibility:hidden;" />
+
 
 </div>
