@@ -7,17 +7,21 @@ draft: false
 ### Preprints
 
 - "The temperature-dependence of carrier mobility is not a reliable indicator of the dominant scattering mechanism" [arXiv:2210.01746](https://arxiv.org/abs/2210.01746)
-- "Tilt-induced charge localisation in phosphide antiperovskite photovoltaics" [arXiv:2308.07858](https://arxiv.org/abs/2308.07858)
 - "Learned Force Fields Are Ready For Ground State Catalyst Discovery" [arXiv:2209.12466](https://arxiv.org/abs/2209.12466)
 - "High-throughput determination of Hubbard U and Hund J values for transition metal oxides via linear response formalism" [arXiv:2201.04213](https://arxiv.org/abs/2201.04213)
 - "Crystal Toolkit: A Web App Framework to Improve Usability and Accessibility of Materials Science Research Algorithms" [arXiv:2302.06147](https://arxiv.org/abs/2302.06147)
+- "Roadmap on Photovoltaic Absorber Materials for Sustainable Energy Conversion" [arXiv:arXiv:2310.19430](https://doi.org/10.48550/arXiv.2310.19430)
+- "PyTASER: Simulating transient absorption spectroscopy (TAS) for crystals from first principles" [10.21105.joss.05999](https://github.com/openjournals/joss-papers/blob/joss.05999/joss.05999/10.21105.joss.05999.pdf)
+- "Jobflow: Computational Workflows Made Simple" [10.21105.joss.05995](https://github.com/openjournals/joss-papers/blob/joss.05995/joss.05995/10.21105.joss.05995.pdf)
 
   ## 2023
 
 1. "Relativistic electronic structure and photovoltaic performance of K<sub>2</sub>CsSb" [Journal of Materials Chemistry A (2023)](https://doi.org/10.1039/D3TA02061D)
+1. "Tilt-induced charge localisation in phosphide antiperovskite photovoltaics" [JPhys Materials (2023)](https://doi.org/10.1088/2515-7639/ad0f2f)
 1. "Designing transparent conductors using forbidden optical transitions" [Matter (2023)](https://doi.org/10.1016/j.matt.2023.06.043)
 1. "Room-temperature stacking disorder in layered covalent-organic frameworks from machine-learning force fields" [Materials Horizons (2023)](https://doi.org/10.1039/D3MH00314K)
 1. "From Cubic to Hexagonal: Electronic Trends across Metal Halide Perovskite Polytypes" [Journal of Physical Chemistry C (2023)](https://doi.org/10.1021/acs.jpcc.3c01232)
+1. "Hydrogenated V<sub>2</sub>O<sub>5</sub> with Improved Optical and Electrochemical Activities for Photo-Accelerated Lithium-Ion Batteries [Small (2023)](https://doi.org/10.1002/smll.202308869)
 
    ## 2022
 
