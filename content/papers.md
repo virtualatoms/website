@@ -13,6 +13,7 @@ draft: false
 - "Roadmap on Photovoltaic Absorber Materials for Sustainable Energy Conversion" [arXiv:arXiv:2310.19430](https://doi.org/10.48550/arXiv.2310.19430)
 - "PyTASER: Simulating transient absorption spectroscopy (TAS) for crystals from first principles" [10.21105.joss.05999](https://github.com/openjournals/joss-papers/blob/joss.05999/joss.05999/10.21105.joss.05999.pdf)
 - "Jobflow: Computational Workflows Made Simple" [10.21105.joss.05995](https://github.com/openjournals/joss-papers/blob/joss.05995/joss.05995/10.21105.joss.05995.pdf)
+- "Race to the bottom: Bayesian optimisation for chemical problems" [10.26434/chemrxiv-2023-l8sms](https://doi.org/10.26434/chemrxiv-2023-l8sms)
 
   ## 2023
 
