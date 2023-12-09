@@ -23,6 +23,7 @@ draft: false
 1. "Room-temperature stacking disorder in layered covalent-organic frameworks from machine-learning force fields" [Materials Horizons (2023)](https://doi.org/10.1039/D3MH00314K)
 1. "From Cubic to Hexagonal: Electronic Trends across Metal Halide Perovskite Polytypes" [Journal of Physical Chemistry C (2023)](https://doi.org/10.1021/acs.jpcc.3c01232)
 1. "Hydrogenated V<sub>2</sub>O<sub>5</sub> with Improved Optical and Electrochemical Activities for Photo-Accelerated Lithium-Ion Batteries [Small (2023)](https://doi.org/10.1002/smll.202308869)
+1. "Dendrite-Free Zinc Anodes Enabled by Exploring Polar-Face-Rich 2D ZnO Interfacial Layers for Rechargeable Zn-Ion Batteries" [Small (2023)](https://doi.org/10.1002/smll.202306827)
 
    ## 2022
 
