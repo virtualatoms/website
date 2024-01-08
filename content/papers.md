@@ -12,8 +12,11 @@ draft: false
 - "Crystal Toolkit: A Web App Framework to Improve Usability and Accessibility of Materials Science Research Algorithms" [arXiv:2302.06147](https://arxiv.org/abs/2302.06147)
 - "Roadmap on Photovoltaic Absorber Materials for Sustainable Energy Conversion" [arXiv:arXiv:2310.19430](https://doi.org/10.48550/arXiv.2310.19430)
 - "PyTASER: Simulating transient absorption spectroscopy (TAS) for crystals from first principles" [10.21105.joss.05999](https://github.com/openjournals/joss-papers/blob/joss.05999/joss.05999/10.21105.joss.05999.pdf)
-- "Jobflow: Computational Workflows Made Simple" [10.21105.joss.05995](https://github.com/openjournals/joss-papers/blob/joss.05995/joss.05995/10.21105.joss.05995.pdf)
 - "Race to the bottom: Bayesian optimisation for chemical problems" [10.26434/chemrxiv-2023-l8sms](https://doi.org/10.26434/chemrxiv-2023-l8sms)
+
+  ## 2024
+
+1. "Jobflow: Computational Workflows Made Simple" [Journal of Open Source Software (2024)](https://doi.org/10.21105/joss.05995)
 
   ## 2023
 
