@@ -8,7 +8,6 @@ draft: false
 
 - "The temperature-dependence of carrier mobility is not a reliable indicator of the dominant scattering mechanism" [arXiv:2210.01746](https://arxiv.org/abs/2210.01746)
 - "Learned Force Fields Are Ready For Ground State Catalyst Discovery" [arXiv:2209.12466](https://arxiv.org/abs/2209.12466)
-- "High-throughput determination of Hubbard U and Hund J values for transition metal oxides via linear response formalism" [arXiv:2201.04213](https://arxiv.org/abs/2201.04213)
 - "Crystal Toolkit: A Web App Framework to Improve Usability and Accessibility of Materials Science Research Algorithms" [arXiv:2302.06147](https://arxiv.org/abs/2302.06147)
 - "Roadmap on Photovoltaic Absorber Materials for Sustainable Energy Conversion" [arXiv:arXiv:2310.19430](https://doi.org/10.48550/arXiv.2310.19430)
 - "PyTASER: Simulating transient absorption spectroscopy (TAS) for crystals from first principles" [10.21105.joss.05999](https://github.com/openjournals/joss-papers/blob/joss.05999/joss.05999/10.21105.joss.05999.pdf)
@@ -18,6 +17,7 @@ draft: false
   ## 2024
 
 1. "Jobflow: Computational Workflows Made Simple" [Journal of Open Source Software (2024)](https://doi.org/10.21105/joss.05995)
+1. "High-throughput determination of Hubbard U and Hund J values for transition metal oxides via linear response formalism" [Physical Review Materials (2024)](https://doi.org/10.1103/PhysRevMaterials.8.014409)
 
    ## 2023
 
