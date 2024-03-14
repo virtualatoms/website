@@ -12,6 +12,7 @@ draft: false
 - "Roadmap on Photovoltaic Absorber Materials for Sustainable Energy Conversion" [arXiv:arXiv:2310.19430](https://doi.org/10.48550/arXiv.2310.19430)
 - "Race to the bottom: Bayesian optimisation for chemical problems" [10.26434/chemrxiv-2023-l8sms](https://doi.org/10.26434/chemrxiv-2023-l8sms)
 - "Machine-learning structural reconstructions for accelerated point defect calculations" [arXiv:2401.12127](https://doi.org/10.48550/arXiv.2401.12127)
+- "doped: Python toolkit for robust and repeatable charged defect supercell calculations" [arXiv:2403.08012](https://arxiv.org/abs/2403.08012)
 
   ## 2024
 
