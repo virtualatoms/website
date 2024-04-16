@@ -12,11 +12,11 @@ draft: false
 - "Roadmap on Photovoltaic Absorber Materials for Sustainable Energy Conversion" [arXiv:arXiv:2310.19430](https://doi.org/10.48550/arXiv.2310.19430)
 - "Race to the bottom: Bayesian optimisation for chemical problems" [10.26434/chemrxiv-2023-l8sms](https://doi.org/10.26434/chemrxiv-2023-l8sms)
 - "Machine-learning structural reconstructions for accelerated point defect calculations" [arXiv:2401.12127](https://doi.org/10.48550/arXiv.2401.12127)
-- "doped: Python toolkit for robust and repeatable charged defect supercell calculations" [arXiv:2403.08012](https://arxiv.org/abs/2403.08012)
 - "A High-Throughput Framework for Lattice Dynamics" [10.26434/chemrxiv-2024-c82v8](https://doi.org/10.26434/chemrxiv-2024-c82v8)
 
   ## 2024
 
+1. "doped: Python toolkit for robust and repeatable charged defect supercell calculations" [Journal of Open Source Software (2024)](https://doi.org/10.21105/joss.06433)
 1. "Jobflow: Computational Workflows Made Simple" [Journal of Open Source Software (2024)](https://doi.org/10.21105/joss.05995)
 1. "High-throughput determination of Hubbard U and Hund J values for transition metal oxides via linear response formalism" [Physical Review Materials (2024)](https://doi.org/10.1103/PhysRevMaterials.8.014409)
 1. "PyTASER: Simulating transient absorption spectroscopy (TAS) for crystals from first principles" [Journal of Open Source Software (2024)](https://doi.org/10.21105/joss.05999)
