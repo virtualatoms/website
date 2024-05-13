@@ -16,7 +16,7 @@ draft: false
 
   ## 2024
 
-1. "Insights from experiment and machine learning for enhanced TiO<sub>2</sub< coated glazing for photocatalytic NO<sub>x</sub> remediation" [Journal of Materials Chemistry A (2024)](https://doi.org/10.1039/D4TA01319K)
+1. "Insights from experiment and machine learning for enhanced TiO<sub>2</sub> coated glazing for photocatalytic NO<sub>x</sub> remediation" [Journal of Materials Chemistry A (2024)](https://doi.org/10.1039/D4TA01319K)
 1. "doped: Python toolkit for robust and repeatable charged defect supercell calculations" [Journal of Open Source Software (2024)](https://doi.org/10.21105/joss.06433)
 1. "Jobflow: Computational Workflows Made Simple" [Journal of Open Source Software (2024)](https://doi.org/10.21105/joss.05995)
 1. "High-throughput determination of Hubbard U and Hund J values for transition metal oxides via linear response formalism" [Physical Review Materials (2024)](https://doi.org/10.1103/PhysRevMaterials.8.014409)
