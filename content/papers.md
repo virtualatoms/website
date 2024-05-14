@@ -13,6 +13,7 @@ draft: false
 - "Race to the bottom: Bayesian optimisation for chemical problems" [10.26434/chemrxiv-2023-l8sms](https://doi.org/10.26434/chemrxiv-2023-l8sms)
 - "Machine-learning structural reconstructions for accelerated point defect calculations" [arXiv:2401.12127](https://doi.org/10.48550/arXiv.2401.12127)
 - "A High-Throughput Framework for Lattice Dynamics" [10.26434/chemrxiv-2024-c82v8](https://doi.org/10.26434/chemrxiv-2024-c82v8)
+- "Discovery of highly anisotropic dielectric crystals with equivariant graph neural networks" [arXiv:2405.07915](https://arxiv.org/abs/2405.07915)
 
   ## 2024
 
