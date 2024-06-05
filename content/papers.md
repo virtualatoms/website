@@ -15,6 +15,7 @@ draft: false
 - "Discovery of highly anisotropic dielectric crystals with equivariant graph neural networks" [arXiv:2405.07915](https://arxiv.org/abs/2405.07915)
 
   ## 2024
+1. "Exploring the Thermoelectric Potential of MgB<sub>4</sub>: Electronic Band Structure, Transport Properties, and Defect Chemistry" [Chemistry of Materials (2024)](https://doi.org/10.1021/acs.chemmater.4c00584)
 1. "Race to the bottom: Bayesian optimisation for chemical problems" [Digitial Discovery (2024)](https://doi.org/10.1039/D3DD00234A)
 1. "Insights from experiment and machine learning for enhanced TiO<sub>2</sub> coated glazing for photocatalytic NO<sub>x</sub> remediation" [Journal of Materials Chemistry A (2024)](https://doi.org/10.1039/D4TA01319K)
 1. "doped: Python toolkit for robust and repeatable charged defect supercell calculations" [Journal of Open Source Software (2024)](https://doi.org/10.21105/joss.06433)
