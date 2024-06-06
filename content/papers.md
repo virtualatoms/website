@@ -10,11 +10,11 @@ draft: false
 - "Learned Force Fields Are Ready For Ground State Catalyst Discovery" [arXiv:2209.12466](https://arxiv.org/abs/2209.12466)
 - "Crystal Toolkit: A Web App Framework to Improve Usability and Accessibility of Materials Science Research Algorithms" [arXiv:2302.06147](https://arxiv.org/abs/2302.06147)
 - "Roadmap on Photovoltaic Absorber Materials for Sustainable Energy Conversion" [arXiv:arXiv:2310.19430](https://doi.org/10.48550/arXiv.2310.19430)
-- "Machine-learning structural reconstructions for accelerated point defect calculations" [arXiv:2401.12127](https://doi.org/10.48550/arXiv.2401.12127)
 - "A High-Throughput Framework for Lattice Dynamics" [10.26434/chemrxiv-2024-c82v8](https://doi.org/10.26434/chemrxiv-2024-c82v8)
 - "Discovery of highly anisotropic dielectric crystals with equivariant graph neural networks" [arXiv:2405.07915](https://arxiv.org/abs/2405.07915)
 
   ## 2024
+1. "Machine-learning structural reconstructions for accelerated point defect calculations" [npj Computational Materials (2024)](https://doi.org/10.1038/s41524-024-01303-9)
 1. "Exploring the Thermoelectric Potential of MgB<sub>4</sub>: Electronic Band Structure, Transport Properties, and Defect Chemistry" [Chemistry of Materials (2024)](https://doi.org/10.1021/acs.chemmater.4c00584)
 1. "Race to the bottom: Bayesian optimisation for chemical problems" [Digitial Discovery (2024)](https://doi.org/10.1039/D3DD00234A)
 1. "Insights from experiment and machine learning for enhanced TiO<sub>2</sub> coated glazing for photocatalytic NO<sub>x</sub> remediation" [Journal of Materials Chemistry A (2024)](https://doi.org/10.1039/D4TA01319K)
