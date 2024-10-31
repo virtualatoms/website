@@ -86,11 +86,11 @@ draft: false
 :   ## Leo Lou
 
     Project: *Machine learning to accelerate the discovery of energy materials*
-    
+
     <hr style="height:10px; visibility:hidden;" />
 
     <span class="code"><a href="https://github.com/leolou0512">GitHub</a></span>
-    
+
     <hr style="height:10px; visibility:hidden;" />
 
 <span class="team"><img src="../team_shirui_wang.jpg"></span>
@@ -99,6 +99,26 @@ draft: false
     Project: *Finite-temperature materials discovery*
 
     <hr style="height:10px; visibility:hidden;" />
+
+    Shirui Wang graduated with a Bachelor of Science degree in Chemistry from the University of
+    Birmingham in July 2022. He then completed a Master of Research (MRes) in Nanomaterials at
+    Imperial College with distinction. Shirui joined the group in December 2022 as a master student,
+    working on a project titled Computational Insights into Emerging Chalcogenide Perovskite Photovoltaics.
+    Following the completion of his master, he continued with the group as a PhD student, now focusing on
+    replacing heavy DFT calculations with machine learning techniques.
+
+## Visiting Students
+
+<span class="team"><img src="../team_ling_zhang.jpg"></span>
+:   ## Ling Zhang
+
+    <hr style="height:10px; visibility:hidden;" />
+
+    Ling is from Henan, China, and she will study at IC as a joint PhD student for 12 months.
+    She is currently a PhD student at Beihang University, China, and her PhD project focuses on
+    the polaronic defects in oxides. Now at IC, Ling will start a new project focused on defects in
+    ultra-wide band gap semiconductors under the supervision of Dr. Alex Ganose. Ling enjoys running,
+    reading and watching movies at her free time.
 
 
 ## Masters Students
