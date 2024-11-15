@@ -105,7 +105,7 @@
   --tw-contain-paint:  ;
   --tw-contain-style:  ;
 }/*
-! tailwindcss v3.4.14 | MIT License | https://tailwindcss.com
+! tailwindcss v3.4.15 | MIT License | https://tailwindcss.com
 *//*
 1. Prevent padding and border from affecting element width. (https://github.com/mozdevs/cssremedy/issues/4)
 2. Allow adding a border to an element by just adding a border-width. (https://github.com/tailwindcss/tailwindcss/pull/116)
@@ -554,10 +554,10 @@ video {
 
 body {
   --tw-bg-opacity: 1;
-  background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+  background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));
   font-family: "Work Sans", Roboto, "Open Sans", sans-serif;
   --tw-text-opacity: 1;
-  color: rgb(26 25 41 / var(--tw-text-opacity));
+  color: rgb(26 25 41 / var(--tw-text-opacity, 1));
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -796,14 +796,14 @@ nav a {
   line-height: 1.85rem;
   display: inline-block;
   padding-left: 1rem;
-  color: rgb(17 24 39 / var(--tw-text-opacity));
+  color: rgb(17 24 39 / var(--tw-text-opacity, 1));
   --tw-text-opacity: 1;
-  color: rgb(26 25 41 / var(--tw-text-opacity));
+  color: rgb(26 25 41 / var(--tw-text-opacity, 1));
   text-decoration-line: none}
 
 nav a:hover {
   --tw-text-opacity: 1;
-  color: rgb(112 114 125 / var(--tw-text-opacity));
+  color: rgb(112 114 125 / var(--tw-text-opacity, 1));
 }
 
 nav li {
@@ -827,7 +827,7 @@ nav ul {
   font-size: 1.125rem;
   line-height: 1.75rem;
   --tw-text-opacity: 1;
-  color: rgb(26 25 41 / var(--tw-text-opacity))}
+  color: rgb(26 25 41 / var(--tw-text-opacity, 1))}
 
 .content-container a {
   border-bottom-width: 1px;
