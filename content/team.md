@@ -107,6 +107,27 @@ draft: false
     Following the completion of his master, he continued with the group as a PhD student, now focusing on
     replacing heavy DFT calculations with machine learning techniques.
 
+<span class="team"><img src="../team_viktor_ellingsson.jpg"></span>
+:   ## Viktor Ellingsson
+
+    Project: *Halide solid electrolytes for all-solid-state batteries*
+
+    <hr style="height:10px; visibility:hidden;" />
+
+    Viktor is a President’s PhD Scholar in the Department of Chemistry at Imperial College London.
+
+    <hr style="height:20px; visibility:hidden;" />
+
+    Viktor is from Iceland and graduated with a BSc in Chemistry with a focus on computational techniques
+    from the University of Iceland. His BSc project looked at the computationally aided design of ammonia
+    NRR catalysts with Prof. Egill Skúlason in collaboration with Atmonia. After the BSc degree he spent one
+    year in the United States at the University of California Santa Barbara attending the UCSB Extension program.
+    In 2022, he joined the STEM Group at the University of Oxford supervised by P. D. Nellist, R. J. Nicholls, and
+    P. G. Bruce. At Oxford he explored the redox mechanism of disordered rocksalt Li-ion cathode materials using
+    electron microscopy and computational modelling. Viktor joined the Virtual Atoms Lab group in November 2023.
+    In his spare time, Viktor enjoys reading, listening to music, and brewing coffee as well as playing Badminton.
+
+
 ## Visiting Students
 
 <span class="team"><img src="../team_ling_zhang.jpg"></span>
@@ -124,9 +145,30 @@ draft: false
 ## Masters Students
 
 <span class="team"></span>
-:   ## Emad Uddin
+:   ## Thomas Selby
 
-    Project: *ML accelerated materials discovery*
+    Project: *Fine-tuning universal force fields through uncertainty quantification*
+
+    <hr style="height:10px; visibility:hidden;" />
+
+<span class="team"></span>
+:   ## Jiawen Han
+
+    Project: *Computational screening of emerging chalcogenide photovoltaics*
+
+    <hr style="height:10px; visibility:hidden;" />
+
+<span class="team"></span>
+:   ## Katrina Zhong
+
+    Project: *Crystal structure prediction with universal force fields*
+
+    <hr style="height:10px; visibility:hidden;" />
+
+<span class="team"></span>
+:   ## Tianyu Xu
+
+    Project: *Machine learning of dielectric tensors*
 
     <hr style="height:10px; visibility:hidden;" />
 
