@@ -20,10 +20,9 @@ Interested applicants should send their CV and a paragraph on their research int
 
 Funding is available through a number of scholarships including:
 
-- [Imperial Scholarship Scheme](http://www.imperial.ac.uk/study/pg/fees-and-funding/scholarships/icphd/)
-- [Imperial Marshall Scholarship Scheme](https://www.imperial.ac.uk/study/pg/fees-and-funding/scholarships/international-scholarship-collaborations/ims/)
-- [Imperial Chemistry DTP Scheme](https://www.findaphd.com/search/PhDDetails.aspx?CAID=2611)
-- [China Scholarship Council (CSC) Scheme](https://www.imperial.ac.uk/study/pg/fees-and-funding/scholarships/international-scholarship-collaborations/csc/)
+- [Imperial Marshall Scholarship Scheme](https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-taught/grants-scholarships/international-scholarship-collaborations/ims/)
+- [Imperial Chemistry DTP Scheme](https://www.imperial.ac.uk/chemistry/postgraduate/phd/phd-studentships/)
+- [China Scholarship Council (CSC) Scheme](https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-taught/grants-scholarships/international-scholarship-collaborations/csc/)
 
 #### Post-doctoral fellowships
 
