@@ -93,6 +93,12 @@ draft: false
 
     <hr style="height:10px; visibility:hidden;" />
 
+    Leo is a second year PhD student in the Virtual Atoms Group. He joined the group in 2022 as a Masters
+    student as part of his undergraduate degree, and continued as a PhD student in 2023. Since then, he
+    has been applying machine learning to problems in chemistry and materials. He is currently working on
+    generative models for crystalline materials. Leo is an amateur classical pianist, Magic the Gathering
+    player, and an enthusiast for PC games.
+
 <span class="team"><img src="../team_shirui_wang.jpg"></span>
 :   ## Shirui Wang
 
