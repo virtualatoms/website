@@ -150,19 +150,29 @@ draft: false
 
 ## Masters Students
 
-<span class="team"></span>
+<span class="team"><img src="../team_thomas_selby.jpg"></span>
 :   ## Thomas Selby
 
     Project: *Fine-tuning universal force fields through uncertainty quantification*
 
     <hr style="height:10px; visibility:hidden;" />
 
-<span class="team"></span>
+    Thomas is from Chesterfield, England, and is a masters student studying chemistry with molecular physics,
+    also completing a year in industry as an analytical chemist with GSK. His project is focused on fine-tuning
+    universal force fields through uncertainty quantification. In his spare time, Thomas plays football for Imperial's
+    first team.
+
+<span class="team"><img src="../team_jiawen_han.jpg"></span>
 :   ## Jiawen Han
 
     Project: *Computational screening of emerging chalcogenide photovoltaics*
 
     <hr style="height:10px; visibility:hidden;" />
+
+    Jiawen began her studies at Imperial as an undergraduate in chemistry. She joined the research group in 2024 and
+    is currently working on her master's research project, which focuses on the computational screening of next-generation
+    chalcogenide photovoltaic materials. Outside of her academic pursuits, Jiawen is passionate about creativity and adventure.
+    She is an amateur music composer, a cook who enjoys exploring world cuisines, a travel enthusiast, and an avid skater.
 
 <span class="team"></span>
 :   ## Katrina Zhong
@@ -171,12 +181,16 @@ draft: false
 
     <hr style="height:10px; visibility:hidden;" />
 
-<span class="team"></span>
+<span class="team"><img src="../team_tianyu_xu.jpg"></span>
 :   ## Tianyu Xu
 
     Project: *Machine learning of dielectric tensors*
 
     <hr style="height:10px; visibility:hidden;" />
+
+    Tianyu is a fourth-year MSci student who want to deepen his understanding of DFT and machine learning,
+    with a focus on training a universal model for predicting dielectric properties. He also has a strong
+    interest in history and warships, particularly the World War II part.
 
 
 </div>
