@@ -43,6 +43,27 @@ draft: false
 
     You can contact Dr Alex Ganose [by email](mailto:a.ganose@imperial.ac.uk).
 
+## Senior Researchers
+
+<span class="team"><img src="../team_xinwei_wang.jpg"></span>
+
+:   ## Dr Xinwei Wang
+
+    Project: *Accelerated defect modelling with machine learning*
+
+    <hr style="height:10px; visibility:hidden;" />
+
+    <span class="scholar"><a href="https://scholar.google.com/citations?user=Ul36LhUAAAAJ&hl=en&oi=ao">Scholar</a></span>
+    <span class="code"><a href="https://github.com/xw-w">GitHub</a></span>
+
+    <hr style="height:20px; visibility:hidden;" />
+
+    Xinwei Wang is an Eric and Wendy Schmidt AI in Science Postdoctoral Fellow in the Department of Chemistry at
+    Imperial College London. She obtained her PhD in Materials from the same institution. Her research interests
+    are accelerating the identification and optimisation of emerging solar absorbers using data-driven approaches.
+    During her fellowship, she's focused on using AI and machine learning techniques to advance defect modelling.
+    In her free time, Xinwei enjoys photography and hiking.
+
 ## PhD Students
 
 <span class="team"><img src="../team_ruiqi_wu.jpg"></span>
