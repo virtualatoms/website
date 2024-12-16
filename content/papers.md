@@ -15,7 +15,6 @@ draft: false
 
    ## 2024
 
-1. "Discovering structure–property correlations: general discussion" [Faraday Discussions (2024)
 1. "A High-Throughput Framework for Lattice Dynamics" [npj Computational Materials (2024)](https://doi.org/10.1038/s41524-024-01437-w)
 1. "Setting standards for data driven materials science" [npj Computational Materials (2024)](https://doi.org/10.1038/s41524-024-01411-6)
 1. "Roadmap on Photovoltaic Absorber Materials for Sustainable Energy Conversion" [JPhys Energy (2024)](https://doi.org/10.1088/2515-7655/ad7404)
