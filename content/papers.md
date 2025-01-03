@@ -12,6 +12,7 @@ draft: false
 
   ## 2025
 1. "Discovering structure–property correlations: general discussion" [Faraday Discussions (2025)](https://doi.org/10.1039/D4FD90062F)
+2. "Discovering synthesis targets: general discussion" [Faraday Discussions (2025)](https://doi.org/10.1039/D4FD90064B)
 
    ## 2024
 
