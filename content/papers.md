@@ -11,8 +11,9 @@ draft: false
 - "Crystal Toolkit: A Web App Framework to Improve Usability and Accessibility of Materials Science Research Algorithms" [arXiv:2302.06147](https://arxiv.org/abs/2302.06147)
 
   ## 2025
+1. "Solvatomorphic diversity dictates the stability and solubility of metal–organic polyhedra" [Chemical Science (2025)](https://doi.org/10.1039/D4SC05037A)
 1. "Discovering structure–property correlations: general discussion" [Faraday Discussions (2025)](https://doi.org/10.1039/D4FD90062F)
-2. "Discovering synthesis targets: general discussion" [Faraday Discussions (2025)](https://doi.org/10.1039/D4FD90064B)
+1. "Discovering synthesis targets: general discussion" [Faraday Discussions (2025)](https://doi.org/10.1039/D4FD90064B)
 
    ## 2024
 
