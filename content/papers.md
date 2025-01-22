@@ -9,6 +9,7 @@ draft: false
 - "The temperature-dependence of carrier mobility is not a reliable indicator of the dominant scattering mechanism" [arXiv:2210.01746](https://arxiv.org/abs/2210.01746)
 - "Learned Force Fields Are Ready For Ground State Catalyst Discovery" [arXiv:2209.12466](https://arxiv.org/abs/2209.12466)
 - "Crystal Toolkit: A Web App Framework to Improve Usability and Accessibility of Materials Science Research Algorithms" [arXiv:2302.06147](https://arxiv.org/abs/2302.06147)
+- "Atomate2: Modular workflows for materials science" [10.26434/chemrxiv-2025-tcr5h](https://doi.org/10.26434/chemrxiv-2025-tcr5h)
 
   ## 2025
 1. "Solvatomorphic diversity dictates the stability and solubility of metal–organic polyhedra" [Chemical Science (2025)](https://doi.org/10.1039/D4SC05037A)
