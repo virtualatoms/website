@@ -9,8 +9,15 @@ draft: false
 - "The temperature-dependence of carrier mobility is not a reliable indicator of the dominant scattering mechanism" [arXiv:2210.01746](https://arxiv.org/abs/2210.01746)
 - "Learned Force Fields Are Ready For Ground State Catalyst Discovery" [arXiv:2209.12466](https://arxiv.org/abs/2209.12466)
 - "Crystal Toolkit: A Web App Framework to Improve Usability and Accessibility of Materials Science Research Algorithms" [arXiv:2302.06147](https://arxiv.org/abs/2302.06147)
+- "Atomate2: Modular workflows for materials science" [10.26434/chemrxiv-2025-tcr5h](https://doi.org/10.26434/chemrxiv-2025-tcr5h)
 
-  ## 2024
+  ## 2025
+1. "Solvatomorphic diversity dictates the stability and solubility of metal–organic polyhedra" [Chemical Science (2025)](https://doi.org/10.1039/D4SC05037A)
+1. "Discovering structure–property correlations: general discussion" [Faraday Discussions (2025)](https://doi.org/10.1039/D4FD90062F)
+1. "Discovering synthesis targets: general discussion" [Faraday Discussions (2025)](https://doi.org/10.1039/D4FD90064B)
+
+   ## 2024
+
 1. "A High-Throughput Framework for Lattice Dynamics" [npj Computational Materials (2024)](https://doi.org/10.1038/s41524-024-01437-w)
 1. "Setting standards for data driven materials science" [npj Computational Materials (2024)](https://doi.org/10.1038/s41524-024-01411-6)
 1. "Roadmap on Photovoltaic Absorber Materials for Sustainable Energy Conversion" [JPhys Energy (2024)](https://doi.org/10.1088/2515-7655/ad7404)
