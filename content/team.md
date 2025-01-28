@@ -53,7 +53,7 @@ draft: false
 
     <hr style="height:10px; visibility:hidden;" />
 
-    <span class="scholar"><a href="https://scholar.google.com/citations?user=Ul36LhUAAAAJ&hl=en&oi=ao">Scholar</a></span>
+    <span class="scholar"><a href="https://scholar.google.com/citations?user=Ul36LhUAAAAJ&hl=en&oi=ao">Scholar</a></span> |
     <span class="code"><a href="https://github.com/xw-w">GitHub</a></span>
 
     <hr style="height:20px; visibility:hidden;" />
@@ -73,7 +73,7 @@ draft: false
     <hr style="height:10px; visibility:hidden;" />
 
     <span class="website"><a href="https://fedeotto.github.io">Website</a></span> |
-    <span class="scholar"><a href="https://scholar.google.com/citations?user=aCAlBk8AAAAJ&hl=en">Scholar</a></span>
+    <span class="scholar"><a href="https://scholar.google.com/citations?user=aCAlBk8AAAAJ&hl=en">Scholar</a></span> |
     <span class="code"><a href="https://github.com/fedeotto">GitHub</a></span>
 
     <hr style="height:20px; visibility:hidden;" />
@@ -92,7 +92,7 @@ draft: false
     <hr style="height:10px; visibility:hidden;" />
 
     <span class="website"><a href="http://wgst.github.io">Website</a></span> |
-    <span class="scholar"><a href="https://scholar.google.com/citations?user=KiNdem8AAAAJ">Scholar</a></span>
+    <span class="scholar"><a href="https://scholar.google.com/citations?user=KiNdem8AAAAJ">Scholar</a></span> |
     <span class="code"><a href="https://github.com/wgst">GitHub</a></span>
 
     <hr style="height:20px; visibility:hidden;" />
