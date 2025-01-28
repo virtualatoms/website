@@ -64,6 +64,44 @@ draft: false
     During her fellowship, she's focused on using AI and machine learning techniques to advance defect modelling.
     In her free time, Xinwei enjoys photography and hiking.
 
+<span class="team"><img src="../team_federico_ottomano.jpg"></span>
+
+:   ## Dr Federico Ottomano
+
+    Project: *Mixed modality generative AI for molecules and materials*
+
+    <hr style="height:10px; visibility:hidden;" />
+
+    <span class="website"><a href="https://fedeotto.github.io">Website</a></span> |
+    <span class="scholar"><a href="https://scholar.google.com/citations?user=aCAlBk8AAAAJ&hl=en">Scholar</a></span>
+    <span class="code"><a href="https://github.com/fedeotto">GitHub</a></span>
+
+    <hr style="height:20px; visibility:hidden;" />
+
+    Federico obtained a Ph.D. in Computer Science from the University of Liverpool, where he worked in the domain of
+    AI4Science, specializing in AI-driven materials discovery. His research interests include graph neural networks
+    and deep generative models with applications in the Chemistry domain, targeting the generation of molecules and
+    materials. He joined the AIchemy AI for Chemistry Hub as a postdoc in Jan 2025. In his free time, he enjoys playing jazz piano.
+
+<span class="team"><img src="../team_wojciech_stark.jpg"></span>
+
+:   ## Dr Wojciech Stark
+
+    Project: *Multi-fidelity closed-loop Bayesian optimisation of chemical experiments*
+
+    <hr style="height:10px; visibility:hidden;" />
+
+    <span class="website"><a href="http://wgst.github.io">Website</a></span> |
+    <span class="scholar"><a href="https://scholar.google.com/citations?user=KiNdem8AAAAJ">Scholar</a></span>
+    <span class="code"><a href="https://github.com/wgst">GitHub</a></span>
+
+    <hr style="height:20px; visibility:hidden;" />
+
+    Wojciech obtained his PhD in Chemistry from University of Warwick, where he developed machine learning models for
+    gas-surface dynamics using uncertainty-driven adaptive sampling. In 2025, he joined Imperial as a Research Associate
+    in AI for Chemistry, focusing on multi-fidelity closed-loop Bayesian optimisation for chemical experiments. In his
+    free time, Wojciech enjoys fitness activities, attending operas, and watching stand-up comedy.
+
 ## PhD Students
 
 <span class="team"><img src="../team_ruiqi_wu.jpg"></span>
