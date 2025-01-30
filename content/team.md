@@ -251,5 +251,17 @@ draft: false
     with a focus on training a universal model for predicting dielectric properties. He also has a strong
     interest in history and warships, particularly the World War II part.
 
+<span class="team"><img src="../team_hollie_kelvin.jpg"></span>
+:   ## Hollie Kelvin
+
+    Project: *Investigating materials for far-UVC technology*
+
+    <hr style="height:10px; visibility:hidden;" />
+
+    Hollie is from Essex and is currently an MRes Nanomaterials student at Imperial College. After graduating
+    with a first-class Hons (BSc) in Chemistry from the University of Nottingham, she joined Imperial in 2024
+    to pursue her MRes, with a project focused on exploring promising materials for applications in far-UVC
+    technology. Outside of her research, Hollie enjoys artistic activities, exploring the vibrant city of London
+    and learning new skills such as playing the ukulele.
 
 </div>
