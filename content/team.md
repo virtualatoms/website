@@ -264,4 +264,16 @@ draft: false
     technology. Outside of her research, Hollie enjoys artistic activities, exploring the vibrant city of London
     and learning new skills such as playing the ukulele.
 
+<span class="team"><img src="../team_ao_sun.jpg"></span>
+:   ## Ao Sun
+
+    Project: *Screening first-row metal complexes as optical probes*
+
+    <hr style="height:10px; visibility:hidden;" />
+
+    Ao is from Xinjiang, China. He obtained his BSc degree in Medicinal Chemistry from the University of Manchester
+    in 2024. After that, he joined Imperial College London as an MRes student in Advanced Molecular Synthesis.
+    His current project focuses on identifying more affordable 3d transition metal complexes with interesting optical
+    properties using DFT and machine learning methods. He is supervised by Prof. Ramon Vilar Compte and Dr. Alex Ganose.
+
 </div>
