@@ -22,7 +22,7 @@ draft: false
 
     <hr style="height:20px; visibility:hidden;" />
 
-    Alex Ganose is a Lecturer and EPSRC Fellow in the Department of Chemistry at Imperial College London.
+    Alex Ganose is a Lecturer in the Department of Chemistry at Imperial College London.
 
     <hr style="height:20px; visibility:hidden;" />
 
