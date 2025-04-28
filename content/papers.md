@@ -12,6 +12,8 @@ draft: false
 - "Atomate2: Modular workflows for materials science" [10.26434/chemrxiv-2025-tcr5h](https://doi.org/10.26434/chemrxiv-2025-tcr5h)
 
   ## 2025
+1. "Cross-disciplinary perspectives on the potential for artificial intelligence across chemistry" [Chemical Society Reviews (2025)](https://doi.org/10.1039/D5CS00146C)
+1. "Advances in theory and computational methods for next-generation thermoelectric materials" [Applied Physics Reviews (2025)](https://doi.org/10.1063/5.0241645)
 1. "Solvatomorphic diversity dictates the stability and solubility of metal–organic polyhedra" [Chemical Science (2025)](https://doi.org/10.1039/D4SC05037A)
 1. "Discovering structure–property correlations: general discussion" [Faraday Discussions (2025)](https://doi.org/10.1039/D4FD90062F)
 1. "Discovering synthesis targets: general discussion" [Faraday Discussions (2025)](https://doi.org/10.1039/D4FD90064B)
