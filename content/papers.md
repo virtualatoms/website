@@ -9,8 +9,10 @@ draft: false
 - "The temperature-dependence of carrier mobility is not a reliable indicator of the dominant scattering mechanism" [arXiv:2210.01746](https://arxiv.org/abs/2210.01746)
 - "Learned Force Fields Are Ready For Ground State Catalyst Discovery" [arXiv:2209.12466](https://arxiv.org/abs/2209.12466)
 - "Crystal Toolkit: A Web App Framework to Improve Usability and Accessibility of Materials Science Research Algorithms" [arXiv:2302.06147](https://arxiv.org/abs/2302.06147)
+- "A Python workflow definition for computational materials design" [arXiv:2505.20366](https://arxiv.org/abs/2505.20366)
 
   ## 2025
+1. "Accelerated data-driven materials science with the Materials Project" [Nature Materials (2025)](https://doi.org/10.1038/s41563-025-02272-0)
 1. "Atomate2: Modular workflows for materials science" [Digital Discovery (2025)(https://doi.org/10.1039/D5DD00019J)
 1. "Cross-disciplinary perspectives on the potential for artificial intelligence across chemistry" [Chemical Society Reviews (2025)](https://doi.org/10.1039/D5CS00146C)
 1. "Advances in theory and computational methods for next-generation thermoelectric materials" [Applied Physics Reviews (2025)](https://doi.org/10.1063/5.0241645)
