@@ -13,6 +13,7 @@ draft: false
 
   ## 2025
 1. "Accelerated data-driven materials science with the Materials Project" [Nature Materials (2025)](https://doi.org/10.1038/s41563-025-02272-0)
+1. "3D Porous Zinc Scaffold Anodes for Enhanced Stability and Performance in Zinc-Ion Energy Storage Systems" [ACS Nano (2025)](https://doi.org/10.1021/acsnano.5c07729)
 1. "Atomate2: Modular workflows for materials science" [Digital Discovery (2025)](https://doi.org/10.1039/D5DD00019J)
 1. "Cross-disciplinary perspectives on the potential for artificial intelligence across chemistry" [Chemical Society Reviews (2025)](https://doi.org/10.1039/D5CS00146C)
 1. "Advances in theory and computational methods for next-generation thermoelectric materials" [Applied Physics Reviews (2025)](https://doi.org/10.1063/5.0241645)
