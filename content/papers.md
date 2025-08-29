@@ -10,6 +10,7 @@ draft: false
 - "Learned Force Fields Are Ready For Ground State Catalyst Discovery" [arXiv:2209.12466](https://arxiv.org/abs/2209.12466)
 - "Crystal Toolkit: A Web App Framework to Improve Usability and Accessibility of Materials Science Research Algorithms" [arXiv:2302.06147](https://arxiv.org/abs/2302.06147)
 - "A Python workflow definition for computational materials design" [arXiv:2505.20366](https://arxiv.org/abs/2505.20366)
+- "General Learning of the Electric Response of Inorganic Materials" [arXiv:2508.17870](https://arxiv.org/abs/2508.17870)
 
   ## 2025
 1. "Accelerated data-driven materials science with the Materials Project" [Nature Materials (2025)](https://doi.org/10.1038/s41563-025-02272-0)
