@@ -13,6 +13,7 @@ draft: false
 - "General Learning of the Electric Response of Inorganic Materials" [arXiv:2508.17870](https://arxiv.org/abs/2508.17870)
 
   ## 2025
+1. "Thermodynamics of Ring-Opening Polymerisation Informatics Collection (TROPIC): a database to enable polymer chemical recycling" [Faraday Discussions (2025)](https://doi.org/10.1039/D5FD00098J)
 1. "Accelerated data-driven materials science with the Materials Project" [Nature Materials (2025)](https://doi.org/10.1038/s41563-025-02272-0)
 1. "3D Porous Zinc Scaffold Anodes for Enhanced Stability and Performance in Zinc-Ion Energy Storage Systems" [ACS Nano (2025)](https://doi.org/10.1021/acsnano.5c07729)
 1. "Atomate2: Modular workflows for materials science" [Digital Discovery (2025)](https://doi.org/10.1039/D5DD00019J)
