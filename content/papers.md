@@ -9,12 +9,12 @@ draft: false
 - "The temperature-dependence of carrier mobility is not a reliable indicator of the dominant scattering mechanism" [arXiv:2210.01746](https://arxiv.org/abs/2210.01746)
 - "Learned Force Fields Are Ready For Ground State Catalyst Discovery" [arXiv:2209.12466](https://arxiv.org/abs/2209.12466)
 - "Crystal Toolkit: A Web App Framework to Improve Usability and Accessibility of Materials Science Research Algorithms" [arXiv:2302.06147](https://arxiv.org/abs/2302.06147)
-- "A Python workflow definition for computational materials design" [arXiv:2505.20366](https://arxiv.org/abs/2505.20366)
 - "General Learning of the Electric Response of Inorganic Materials" [arXiv:2508.17870](https://arxiv.org/abs/2508.17870)
 
   ## 2025
 1. "Water-Splitting “Without Water”: Splitting of the Crystallised Water of Hydrated Salts" [Angewandte Chemie (2025)](https://doi.org/10.1002/anie.202520018)
 1. "Controlling Zn<sup>2+</sup> hydration shell dynamics for long-life zinc anodes in zinc-ion energy storage" [Chemical Engineering Journal (2025)](https://doi.org/10.1016/j.cej.2025.171196)
+1. "A Python workflow definition for computational materials design" [Digital Discovery (2025)](https://doi.org/10.1039/D5DD00231A)
 1. "Thermodynamics of Ring-Opening Polymerisation Informatics Collection (TROPIC): a database to enable polymer chemical recycling" [Faraday Discussions (2025)](https://doi.org/10.1039/D5FD00098J)
 1. "Accelerated data-driven materials science with the Materials Project" [Nature Materials (2025)](https://doi.org/10.1038/s41563-025-02272-0)
 1. "3D Porous Zinc Scaffold Anodes for Enhanced Stability and Performance in Zinc-Ion Energy Storage Systems" [ACS Nano (2025)](https://doi.org/10.1021/acsnano.5c07729)
