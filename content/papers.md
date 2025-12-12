@@ -12,6 +12,7 @@ draft: false
 - "General Learning of the Electric Response of Inorganic Materials" [arXiv:2508.17870](https://arxiv.org/abs/2508.17870)
 
   ## 2025
+1. "Layered Alkali-Copper Selenides: Deciphering Thermoelectric Properties and Reaction Pathways for Nanostructuring β-CsCu<sub>5</sub>Se<sub>3</sub>" [ACS Energy Letters (2025)](https://doi.org/10.1021/acsenergylett.5c02909)
 1. "Water-Splitting “Without Water”: Splitting of the Crystallised Water of Hydrated Salts" [Angewandte Chemie (2025)](https://doi.org/10.1002/anie.202520018)
 1. "Controlling Zn<sup>2+</sup> hydration shell dynamics for long-life zinc anodes in zinc-ion energy storage" [Chemical Engineering Journal (2025)](https://doi.org/10.1016/j.cej.2025.171196)
 1. "A Python workflow definition for computational materials design" [Digital Discovery (2025)](https://doi.org/10.1039/D5DD00231A)
