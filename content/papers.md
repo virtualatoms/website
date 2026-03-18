@@ -12,6 +12,7 @@ draft: false
 - "General Learning of the Electric Response of Inorganic Materials" [arXiv:2508.17870](https://arxiv.org/abs/2508.17870)
 - "NMIRacle: Multi-modal Generative Molecular Elucidation from IR and NMR Spectra" [arXiv.2512.19733](https://doi.org/10.48550/arXiv.2512.19733)
 - "An automated platform for tailored late-stage halogenation of pharmaceuticals" [chemrxiv.15000393](https://doi.org/10.26434/chemrxiv.15000393/v1)
+- "Dopability limits in Al-rich AlGaN alloys for far-UVC LEDs" [arXiv.2603.16310](https://doi.org/10.48550/arXiv.2603.16310)
 
   ## 2025
 1. "Solution-based synthesis of nanocrystalline KBiS<sub>2</sub> films at low temperatures and study of photoinduced charge generation" [Journal of Materials Chemistry C (2025)](https://doi.org/10.1039/D5TC02554K)
