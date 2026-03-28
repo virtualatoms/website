@@ -38,10 +38,32 @@
       </li>
     
     </ul>
-    </div>
-</nav><div class="content-container">
+  </div>
+  <button class="nav-hamburger" aria-label="Toggle navigation" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded')==='true'?'false':'true'); document.getElementById('mobile-nav').classList.toggle('open');">
+    <span></span><span></span><span></span>
+  </button>
+</nav>
+<div id="mobile-nav" aria-label="Mobile Navigation">
+  <ul><li>
+      <a href="/research/">research</a>
+    </li>
+  <li>
+      <a href="/team/">team</a>
+    </li>
+  <li>
+      <a href="/papers/">papers</a>
+    </li>
+  <li>
+      <a href="/codes/">codes</a>
+    </li>
+  <li>
+      <a href="/join/">join us</a>
+    </li>
+  
+  </ul>
+</div><div class="content-container">
     <h1>Research</h1>
-    <div class="mx-10">
+    <div class="mx-0 md:mx-10">
     <p>Welcome to the Virtual Atoms Lab research group run by <a href="/team">Dr Alex Ganose</a> at
 <a href="https://www.imperial.ac.uk">Imperial College London</a>.
 We use computational materials chemistry, data-driven approaches, and machine learning to discover new

@@ -38,10 +38,32 @@
       </li>
     
     </ul>
-    </div>
-</nav><div class="content-container">
+  </div>
+  <button class="nav-hamburger" aria-label="Toggle navigation" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded')==='true'?'false':'true'); document.getElementById('mobile-nav').classList.toggle('open');">
+    <span></span><span></span><span></span>
+  </button>
+</nav>
+<div id="mobile-nav" aria-label="Mobile Navigation">
+  <ul><li>
+      <a href="/research/">research</a>
+    </li>
+  <li>
+      <a href="/team/">team</a>
+    </li>
+  <li>
+      <a href="/papers/">papers</a>
+    </li>
+  <li>
+      <a href="/codes/">codes</a>
+    </li>
+  <li>
+      <a href="/join/">join us</a>
+    </li>
+  
+  </ul>
+</div><div class="content-container">
     <h1>Papers</h1>
-    <div class="mx-10">
+    <div class="mx-0 md:mx-10">
     <h3 id="preprints">Preprints</h3>
 <ul>
 <li>
