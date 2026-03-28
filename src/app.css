@@ -50,6 +50,13 @@ h4 {
   margin-left: -20px;
   margin-right: 0px;
 }
+
+@media (max-width: 767px) {
+  .banner {
+    margin-left: 0;
+    overflow: hidden;
+  }
+}
 .banner-inner {
   position: relative;
   padding: 30px 30px 27px;
@@ -212,8 +219,41 @@ h4 {
   @apply hidden md:flex md:items-center
 }
 
+.nav-hamburger {
+  @apply flex md:hidden flex-col justify-center gap-1.5 p-2 cursor-pointer bg-transparent border-0;
+}
+
+.nav-hamburger span {
+  display: block;
+  width: 24px;
+  height: 2px;
+  background-color: #1A1929;
+}
+
+#mobile-nav {
+  @apply hidden md:hidden border-t border-gray-200;
+}
+
+#mobile-nav.open {
+  @apply block;
+}
+
+#mobile-nav ul {
+  font-variant-caps: small-caps;
+  @apply flex flex-col py-2;
+}
+
+#mobile-nav li {
+  @apply border-b border-gray-100 last:border-0;
+}
+
+#mobile-nav a {
+  font-size: 1.2rem;
+  @apply block py-3 px-6 text-dark no-underline hover:text-light;
+}
+
 nav {
-  @apply w-full flex justify-between mt-0 py-5 px-8
+  @apply w-full flex justify-between mt-0 py-5 px-5 md:px-8
 }
 
 nav a {
@@ -233,7 +273,14 @@ nav ul {
 
 .content-container {
   max-width: 940px;
-  @apply px-20 mt-8 mx-auto text-lg text-dark mb-14 h-full w-full
+  @apply px-4 md:px-8 mt-8 mx-auto text-lg text-dark mb-14 h-full w-full
+}
+
+@media (min-width: 940px) {
+  .content-container {
+    padding-left: 5rem;
+    padding-right: 5rem;
+  }
 }
 
 .content-container a {
@@ -264,6 +311,33 @@ dl {
   @apply items-start
 }
 
+@media (max-width: 767px) {
+  dl {
+    display: block;
+    margin-left: 0;
+    margin-right: 0;
+  }
+  dt {
+    padding-right: 0;
+    padding-bottom: 0.75rem;
+    text-align: center;
+  }
+  dt .research,
+  dt .team {
+    display: block;
+    width: auto;
+    max-width: 220px;
+    margin: 0 auto;
+  }
+  dt .team {
+    max-width: 190px;
+  }
+  dd {
+    margin-left: 0;
+    margin-bottom: 2rem;
+  }
+}
+
 .codes dl {
   @apply items-center
 }
@@ -271,6 +345,13 @@ dl {
 .research-container dl {
   margin-left: -110px;
   @apply items-center
+}
+
+@media (max-width: 767px) {
+  .research-container dl {
+    margin-left: 0;
+    margin-right: 0;
+  }
 }
 
 .team-container dl {

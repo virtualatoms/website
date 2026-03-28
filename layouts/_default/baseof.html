@@ -30,8 +30,20 @@
       </li>
     {{ end }}
     </ul>
-    </div>
+  </div>
+  <button class="nav-hamburger" aria-label="Toggle navigation" aria-expanded="false" onclick="this.setAttribute('aria-expanded', this.getAttribute('aria-expanded')==='true'?'false':'true'); document.getElementById('mobile-nav').classList.toggle('open');">
+    <span></span><span></span><span></span>
+  </button>
 </nav>
+<div id="mobile-nav" aria-label="Mobile Navigation">
+  <ul>
+  {{- range .Site.Menus.main -}}
+    <li>
+      <a href="{{ .URL }}">{{ lower .Name }}</a>
+    </li>
+  {{ end }}
+  </ul>
+</div>
   {{- block "main" .}}{{- end}}
 </body>
 </html>
