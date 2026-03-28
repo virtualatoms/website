@@ -10,7 +10,7 @@ draft: false
 <span class="team"><img src="../team_alex_ganose.jpg"></span>
 :   ## Dr. Alex Ganose
 
-    Lecturer, Imperial College London
+    Associate Professor, Imperial College London
 
     Co-investigator, [Materials Project](https://materialsproject.org)
 
@@ -22,13 +22,13 @@ draft: false
 
     <hr style="height:20px; visibility:hidden;" />
 
-    Alex Ganose is a Lecturer in the Department of Chemistry at Imperial College London.
+    Alex Ganose is an Associate Professor in the Department of Chemistry at Imperial College London.
 
     <hr style="height:20px; visibility:hidden;" />
 
     His research uses computational materials chemistry, machine learning,
     and data science to design new materials for pressing  problems,
-    including renewable energy generation (photovoltaics & thermoelectrics) and
+    including renewable energy generation (photovoltaics, thermoelectrics and transparent conductors) and
     energy storage.
 
     <hr style="height:20px; visibility:hidden;" />
@@ -36,7 +36,7 @@ draft: false
     Alex was awarded his EngD in chemistry from University College London in 2018.
     After a Postdoctoral position at
     Berkeley Lab, California he joined Imperial as an EPSRC Fellow in 2021.
-    In 2022, he was appointed as a Lecturer in the Department of Chemistry.
+    In 2022, he was appointed as a Lecturer in the Department of Chemistry, followed by an Associate Professor in 2025.
     He is a co-investigator at the [Materials Project](http://materialsproject.org).
 
     <hr style="height:20px; visibility:hidden;" />

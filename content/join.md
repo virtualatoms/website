@@ -13,8 +13,8 @@ We have positions available. Please get in touch with Alex [by email](mailto:a.g
 
 #### UROP position for summer 2024
 
-A funded summer project is available for Imperial undergraduates.
-Interested applicants should send their CV and a paragraph on their research interests to Dr. Ganose before 29th November 2023.
+We usually suport UROP summer projects for Imperial undergraduates.
+Interested applicants should send their CV and a paragraph on their research interests to Dr. Ganose before the end of November each academic year.
 
 #### PhD Scholarships
 
