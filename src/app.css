@@ -1,6 +1,15 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
+
+@source "../layouts";
+@source "../content";
+@source "../src";
+
+@theme {
+  --color-dark: #1A1929;
+  --color-light: #70727D;
+  --font-sans: "Work Sans", Roboto, "Open Sans", sans-serif;
+  --font-serif: Eczar;
+}
 
 .home {
   background-image: url("assets/virtualatoms-logo.svg");

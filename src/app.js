@@ -218,7 +218,7 @@ class WebGL {
     this.delta = 0;
     this.interval = 1 / 60;
 
-    this.renderer.outputEncoding = THREE.sRGBEncoding;
+    this.renderer.outputColorSpace = THREE.SRGBColorSpace;
 
     this.update = this.update.bind(this);
     this.onResize = this.onResize.bind(this);
@@ -229,7 +229,6 @@ class WebGL {
 
     this.renderer.setSize(innerWidth, innerHeight);
     this.renderer.setPixelRatio(devicePixelRatio);
-    this.renderer.physicallyCorrectLights = true;
 
     this.scene.add(this.camera);
 
