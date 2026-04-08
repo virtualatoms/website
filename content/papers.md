@@ -17,7 +17,8 @@ draft: false
   ## 2026
 1. Revealing the Impact of Phase Transition on n = 1 2D Perovskite Photodetectors With Intrinsically Tunable Narrowband Detection [Small (2026)](https://doi.org/10.1002/smll.73312)
 
-  ## 2025
+   ## 2025
+
 1. "Solution-based synthesis of nanocrystalline KBiS<sub>2</sub> films at low temperatures and study of photoinduced charge generation" [Journal of Materials Chemistry C (2025)](https://doi.org/10.1039/D5TC02554K)
 1. "Layered Alkali-Copper Selenides: Deciphering Thermoelectric Properties and Reaction Pathways for Nanostructuring β-CsCu<sub>5</sub>Se<sub>3</sub>" [ACS Energy Letters (2025)](https://doi.org/10.1021/acsenergylett.5c02909)
 1. "Water-Splitting “Without Water”: Splitting of the Crystallised Water of Hydrated Salts" [Angewandte Chemie (2025)](https://doi.org/10.1002/anie.202520018)
