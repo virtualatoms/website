@@ -13,6 +13,7 @@ draft: false
 - "NMIRacle: Multi-modal Generative Molecular Elucidation from IR and NMR Spectra" [arXiv.2512.19733](https://doi.org/10.48550/arXiv.2512.19733)
 - "An automated platform for tailored late-stage halogenation of pharmaceuticals" [chemrxiv.15000393](https://doi.org/10.26434/chemrxiv.15000393/v1)
 - "Dopability limits in Al-rich AlGaN alloys for far-UVC LEDs" [arXiv.2603.16310](https://doi.org/10.48550/arXiv.2603.16310)
+- "On the possibility of hybrid chalcogenide perovskite photovoltaics" [arXiv:2604.06555](http://arxiv.org/abs/2604.06555)
 
   ## 2026
 1. Revealing the Impact of Phase Transition on n = 1 2D Perovskite Photodetectors With Intrinsically Tunable Narrowband Detection [Small (2026)](https://doi.org/10.1002/smll.73312)
