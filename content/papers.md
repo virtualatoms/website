@@ -9,13 +9,13 @@ draft: false
 - "The temperature-dependence of carrier mobility is not a reliable indicator of the dominant scattering mechanism" [arXiv:2210.01746](https://arxiv.org/abs/2210.01746)
 - "Learned Force Fields Are Ready For Ground State Catalyst Discovery" [arXiv:2209.12466](https://arxiv.org/abs/2209.12466)
 - "Crystal Toolkit: A Web App Framework to Improve Usability and Accessibility of Materials Science Research Algorithms" [arXiv:2302.06147](https://arxiv.org/abs/2302.06147)
-- "General Learning of the Electric Response of Inorganic Materials" [arXiv:2508.17870](https://arxiv.org/abs/2508.17870)
 - "NMIRacle: Multi-modal Generative Molecular Elucidation from IR and NMR Spectra" [arXiv.2512.19733](https://doi.org/10.48550/arXiv.2512.19733)
 - "An automated platform for tailored late-stage halogenation of pharmaceuticals" [chemrxiv.15000393](https://doi.org/10.26434/chemrxiv.15000393/v1)
 - "Dopability limits in Al-rich AlGaN alloys for far-UVC LEDs" [arXiv.2603.16310](https://doi.org/10.48550/arXiv.2603.16310)
 - "Autoregressive latent diffusion for 3D molecule generation" [arXiv:2607.09277](https://arxiv.org/abs/2607.09277)
 
   ## 2026
+1. "General Learning of the Electric Response of Inorganic Materials" [PRX Intelligence](https://doi.org/10.1103/b116-xy8k)
 1. "On the possibility of hybrid chalcogenide perovskite photovoltaics" [Faraday Discussions (2026)](https://doi.org/10.1039/D6FD00025H)
 1. "Revealing the Impact of Phase Transition on n=1 2D Perovskite Photodetectors With Intrinsically Tunable Narrowband Detection" [Small (2026)](https://doi.org/10.1002/smll.73312)
 
