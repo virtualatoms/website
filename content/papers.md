@@ -13,6 +13,8 @@ draft: false
 - "An automated platform for tailored late-stage halogenation of pharmaceuticals" [chemrxiv.15000393](https://doi.org/10.26434/chemrxiv.15000393/v1)
 - "Dopability limits in Al-rich AlGaN alloys for far-UVC LEDs" [arXiv.2603.16310](https://doi.org/10.48550/arXiv.2603.16310)
 - "Autoregressive latent diffusion for 3D molecule generation" [arXiv:2607.09277](https://arxiv.org/abs/2607.09277)
+- "OxiGen: Oxidation-State-Aware Crystal Generation" [arXiv.2610.08296](https://doi.org/10.48550/arXiv.2610.08296)
+- "GEODE: Symmetry-Preserving Cartesian Diffusion for Crystal Generation" [arXiv.2610.01898](https://doi.org/10.48550/arXiv.2610.01898)
 
   ## 2026
 1. "General Learning of the Electric Response of Inorganic Materials" [PRX Intelligence](https://doi.org/10.1103/b116-xy8k)
