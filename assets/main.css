@@ -572,6 +572,14 @@ nav ul {
   border-bottom-style: var(--tw-border-style);
   border-bottom-width: 4px;
 }
+.content-container a.icon-link {
+  margin-right: var(--spacing);
+  --tw-border-style: none;
+  border-style: none;
+}
+#alumni ~ p {
+  margin-bottom: calc(var(--spacing) * 3);
+}
 .content-container ol {
   list-style-type: decimal;
   padding-left: calc(var(--spacing) * 10);
