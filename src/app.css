@@ -300,6 +300,14 @@ nav ul {
   @apply border-b-4
 }
 
+.content-container a.icon-link {
+  @apply border-none mr-1
+}
+
+#alumni ~ p {
+  @apply mb-3
+}
+
 .content-container ol {
   @apply list-decimal pl-10
 }

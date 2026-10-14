@@ -64,25 +64,6 @@ draft: false
     During her fellowship, she's focused on using AI and machine learning techniques to advance defect modelling.
     In her free time, Xinwei enjoys photography and hiking.
 
-<span class="team"><img src="../team_federico_ottomano.jpg"></span>
-
-:   ## Dr Federico Ottomano
-
-    Project: *Mixed modality generative AI for molecules and materials*
-
-    <hr style="height:10px; visibility:hidden;" />
-
-    <span class="website"><a href="https://fedeotto.github.io">Website</a></span> |
-    <span class="scholar"><a href="https://scholar.google.com/citations?user=aCAlBk8AAAAJ&hl=en">Scholar</a></span> |
-    <span class="code"><a href="https://github.com/fedeotto">GitHub</a></span>
-
-    <hr style="height:20px; visibility:hidden;" />
-
-    Federico obtained a Ph.D. in Computer Science from the University of Liverpool, where he worked in the domain of
-    AI4Science, specializing in AI-driven materials discovery. His research interests include graph neural networks
-    and deep generative models with applications in the Chemistry domain, targeting the generation of molecules and
-    materials. He joined the AIchemy AI for Chemistry Hub as a postdoc in Jan 2025. In his free time, he enjoys playing jazz piano.
-
 <span class="team"><img src="../team_wojciech_stark.jpg"></span>
 
 :   ## Dr Wojciech Stark
@@ -111,7 +92,8 @@ draft: false
 
     <hr style="height:10px; visibility:hidden;" />
 
-    <span class="scholar"><a href="https://scholar.google.com/citations?user=ZBw2oKYAAAAJ&hl=en">Scholar</a></span>
+    <span class="scholar"><a href="https://scholar.google.com/citations?user=ZBw2oKYAAAAJ&hl=en">Scholar</a></span> |
+    <span class="code"><a href="https://github.com/Ruiqi-Wu">GitHub</a></span>
 
     <hr style="height:20px; visibility:hidden;" />
 
@@ -122,24 +104,6 @@ draft: false
     Advanced Materials Science from UCL, Ruiqi joined the group in November 2022 as
     the first PhD student, focusing on designing earth-abundant photovoltaics.
     When she’s not studying, Ruiqi enjoys cooking, manga and fossil hunting.
-
-<span class="team"><img src="../team_yifan_wu.jpg"></span>
-:   ## Yifan Wu
-
-    Project: *Accelerating materials synthesis and computation*
-
-    Co-supervisor: *Prof. Aron Walsh*
-
-    <hr style="height:10px; visibility:hidden;" />
-
-<span class="team"><img src="../team_irea_louis.jpg"></span>
-:   ## Irea Mosquera Louis
-
-    Project: *Defect representations in solid-state materials*
-
-    Co-supervisor: *Prof. Aron Walsh*
-
-    <hr style="height:10px; visibility:hidden;" />
 
 <span class="team"><img src="../team_leo_lou.jpg"></span>
 :   ## Leo Lou
@@ -165,6 +129,10 @@ draft: false
 
     <hr style="height:10px; visibility:hidden;" />
 
+    <span class="scholar"><a href="https://scholar.google.com/citations?hl=en&user=S9-YNBIAAAAJ">Scholar</a></span>
+
+    <hr style="height:20px; visibility:hidden;" />
+
     Shirui Wang graduated with a Bachelor of Science degree in Chemistry from the University of
     Birmingham in July 2022. He then completed a Master of Research (MRes) in Nanomaterials at
     Imperial College with distinction. Shirui joined the group in December 2022 as a master student,
@@ -179,6 +147,11 @@ draft: false
 
     <hr style="height:10px; visibility:hidden;" />
 
+    <span class="scholar"><a href="https://scholar.google.com/citations?hl=en&user=-etG0EoAAAAJ">Scholar</a></span> |
+    <span class="code"><a href="https://github.com/Viktore224">GitHub</a></span>
+
+    <hr style="height:20px; visibility:hidden;" />
+
     Viktor is a President’s PhD Scholar in the Department of Chemistry at Imperial College London.
 
     <hr style="height:20px; visibility:hidden;" />
@@ -192,88 +165,107 @@ draft: false
     electron microscopy and computational modelling. Viktor joined the Virtual Atoms Lab group in November 2023.
     In his spare time, Viktor enjoys reading, listening to music, and brewing coffee as well as playing Badminton.
 
+<span class="team"><img src="../team_dylan_john.jpg"></span>
+:   ## Dylan John
 
-## Visiting Students
+    Project: *Hard-constraints for chemical generative models*
 
-<span class="team"><img src="../team_ling_zhang.jpg"></span>
-:   ## Ling Zhang
-
-    <hr style="height:10px; visibility:hidden;" />
-
-    Ling is from Henan, China, and she will study at IC as a joint PhD student for 12 months.
-    She is currently a PhD student at Beihang University, China, and her PhD project focuses on
-    the polaronic defects in oxides. Now at IC, Ling will start a new project focused on defects in
-    ultra-wide band gap semiconductors under the supervision of Dr. Alex Ganose. Ling enjoys running,
-    reading and watching movies at her free time.
-
-
-## Masters Students
-
-<span class="team"><img src="../team_thomas_selby.jpg"></span>
-:   ## Thomas Selby
-
-    Project: *Fine-tuning universal force fields through uncertainty quantification*
+    Co-supervisors: *Prof. Kim Jelfs, Dr Eleonora Giunchiglia*
 
     <hr style="height:10px; visibility:hidden;" />
 
-    Thomas is from Chesterfield, England, and is a masters student studying chemistry with molecular physics,
-    also completing a year in industry as an analytical chemist with GSK. His project is focused on fine-tuning
-    universal force fields through uncertainty quantification. In his spare time, Thomas plays football for Imperial's
-    first team.
+    <span class="code"><a href="https://github.com/dylancjohn">GitHub</a></span>
 
-<span class="team"><img src="../team_jiawen_han.jpg"></span>
-:   ## Jiawen Han
+    <hr style="height:20px; visibility:hidden;" />
 
-    Project: *Computational screening of emerging chalcogenide photovoltaics*
+    Dylan joined the group in September 2025 after completing his MChem degree at the University of Oxford.
+    His research focuses on integrating constraints into generative models.
 
-    <hr style="height:10px; visibility:hidden;" />
+<span class="team"><img src="../team_pablo_graf.jpg"></span>
+:   ## Pablo Graf
 
-    Jiawen began her studies at Imperial as an undergraduate in chemistry. She joined the research group in 2024 and
-    is currently working on her master's research project, which focuses on the computational screening of next-generation
-    chalcogenide photovoltaic materials. Outside of her academic pursuits, Jiawen is passionate about creativity and adventure.
-    She is an amateur music composer, a cook who enjoys exploring world cuisines, a travel enthusiast, and an avid skater.
+    Project: *Data-driven approaches for reaction mechanism discovery*
 
-<span class="team"></span>
-:   ## Katrina Zhong
-
-    Project: *Crystal structure prediction with universal force fields*
+    Co-supervisors: *Prof. Kim Jelfs, Dr Becky Greenaway*
 
     <hr style="height:10px; visibility:hidden;" />
 
-<span class="team"><img src="../team_tianyu_xu.jpg"></span>
-:   ## Tianyu Xu
+    <span class="code"><a href="https://github.com/PabloGraf">GitHub</a></span>
 
-    Project: *Machine learning of dielectric tensors*
+    <hr style="height:20px; visibility:hidden;" />
 
-    <hr style="height:10px; visibility:hidden;" />
+    Pablo is a PhD student from Barcelona, Spain, funded by AIChemy. He graduated with an MSci in
+    Chemistry from the University of Bristol, where he investigated the excited-state potential energy surfaces
+    and photoswitching capabilities of a novel phosphine-based azobenzene derivative under the supervision of
+    Prof. Basile Curchod. He also obtained an MRes in Multidisciplinary Sciences from Universitat Pompeu Fabra
+    and the Institute of Photonic Sciences, where he developed an OT-2-based automated platform for testing
+    RuO₂ based oxygen evolution reaction electrocatalysts under the supervision of Prof. F. Pelayo García de
+    Arquer. Since joining Imperial, he has been helping to develop a closed-loop platform for the discovery of
+    chemical reaction mechanisms based on reaction kinetics.
 
-    Tianyu is a fourth-year MSci student who want to deepen his understanding of DFT and machine learning,
-    with a focus on training a universal model for predicting dielectric properties. He also has a strong
-    interest in history and warships, particularly the World War II part.
+<span class="team"><img src="../team_cameron_reid.jpg"></span>
+:   ## Cameron Reid
 
-<span class="team"><img src="../team_hollie_kelvin.jpg"></span>
-:   ## Hollie Kelvin
+    Project: *Data-driven modelling of polymer biotransformation and biodegradation*
 
-    Project: *Investigating materials for far-UVC technology*
-
-    <hr style="height:10px; visibility:hidden;" />
-
-    Hollie is from Essex and is currently an MRes Nanomaterials student at Imperial College. After graduating
-    with a first-class Hons (BSc) in Chemistry from the University of Nottingham, she joined Imperial in 2024
-    to pursue her MRes, with a project focused on exploring promising materials for applications in far-UVC
-    technology. Outside of her research, Hollie enjoys artistic activities, exploring the vibrant city of London
-    and learning new skills such as playing the ukulele.
-
-<span class="team"><img src="../team_ao_sun.jpg"></span>
-:   ## Ao Sun
-
-    Project: *Screening first-row metal complexes as optical probes*
+    Co-supervisors: *Prof. Dr. George Britovsek, Dr Agi Brandt-Talbot, Dr Florence Huynh (Polymateria)*
 
     <hr style="height:10px; visibility:hidden;" />
 
-    Ao is from Xinjiang, China. He obtained his BSc degree in Medicinal Chemistry from the University of Manchester
-    in 2024. After that, he joined Imperial College London as an MRes student in Advanced Molecular Synthesis.
-    His current project focuses on identifying more affordable 3d transition metal complexes with interesting optical
-    properties using DFT and machine learning methods. He is supervised by Prof. Ramon Vilar Compte and Dr. Alex Ganose.
+    <span class="scholar"><a href="https://scholar.google.com/citations?user=z2FxIIwAAAAJ&hl=en">Scholar</a></span>
+
+    <hr style="height:20px; visibility:hidden;" />
+
+    Cameron is from Cambridge. He studied Chemistry at the University of Edinburgh before completing an MRes in
+    Green Chemistry at Imperial. He then spent a year as a Research Technologist at Polymateria, working on
+    accelerated ageing and service life prediction of polyolefins. He joined the group in October 2026 as a CASE
+    PhD student with Polymateria. His project combines machine learning, accelerated ageing experiments and
+    computational chemistry to design polyolefins with controlled degradability. Outside the lab, Cameron plays
+    basketball and football and loves cooking.
+
+<span class="team"><img src="../team_gabriel_greenstein.jpg"></span>
+:   ## Gabriel Greenstein
+
+    Project: *Unifying matter: a foundation generative model for materials and molecular design*
+
+    Co-supervisors: *Dr Joey Bose, Dr Shelly Conroy*
+
+    <hr style="height:10px; visibility:hidden;" />
+
+    <span class="code"><a href="https://github.com/GabrielGreenstein01">GitHub</a></span>
+
+    <hr style="height:20px; visibility:hidden;" />
+
+    Gabriel is working at the intersection of AI, chemistry, and materials science to develop a foundation
+    generative model for multimodal materials design. He holds an MSc in Materials Science and Engineering and
+    a BSc in Mathematics from Stanford University. In his free time, Gabriel enjoys golf, pickleball, and skiing.
+
+<span class="team"><img src="../team_ninon_scherz.jpg"></span>
+:   ## Ninon Scherz
+
+    Project: *Discovery of defect-tolerant energy materials*
+
+    <hr style="height:10px; visibility:hidden;" />
+
+    Ninon grew up in France and spent 10 years in California, where she received her Bachelor's of Science in
+    Materials Chemistry at the University of California, Berkeley. There, she studied electron microscopy
+    characterization of cathode materials at Lawrence Berkeley National Lab. She is now starting a PhD at
+    Imperial College London in the Virtual Atoms group, modeling defects in energy materials.
+
+## Alumni
+
+**Dr Federico Ottomano** — Postdoctoral Research Associate, 2025–2026. Now Senior ML Scientist at Nxera Pharma
+<a class="icon-link" href="https://fedeotto.github.io" title="Website" aria-label="Website"><span class="website"></span></a>
+<a class="icon-link" href="https://scholar.google.com/citations?user=aCAlBk8AAAAJ&hl=en" title="Scholar" aria-label="Scholar"><span class="scholar"></span></a>
+<a class="icon-link" href="https://github.com/fedeotto" title="GitHub" aria-label="GitHub"><span class="code"></span></a>
+
+**Irea Mosquera Louis** — PhD Student, 2022–2026. Now Member of Technical Staff at CuspAI
+<a class="icon-link" href="https://scholar.google.com/citations?user=oIMzt0cAAAAJ&hl=en" title="Scholar" aria-label="Scholar"><span class="scholar"></span></a>
+<a class="icon-link" href="https://github.com/ireaml" title="GitHub" aria-label="GitHub"><span class="code"></span></a>
+
+**Ling Zhang** — Visiting PhD Student, 2025–2026
+<a class="icon-link" href="https://github.com/lzhang0797" title="GitHub" aria-label="GitHub"><span class="code"></span></a>
+
+**Yifan Wu** — PhD Student, 2021–2025
 
 </div>
