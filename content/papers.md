@@ -15,9 +15,14 @@ draft: false
 - "Autoregressive latent diffusion for 3D molecule generation" [arXiv:2607.09277](https://arxiv.org/abs/2607.09277)
 - "OxiGen: Oxidation-State-Aware Crystal Generation" [arXiv.2610.08296](https://doi.org/10.48550/arXiv.2610.08296)
 - "GEODE: Symmetry-Preserving Cartesian Diffusion for Crystal Generation" [arXiv.2610.01898](https://doi.org/10.48550/arXiv.2610.01898)
+- "pymatgen: 15 years of community growth, new functionality, and future prospects" [arXiv:2610.23538](https://arxiv.org/abs/2610.23538)
+
 
   ## 2026
-1. "General Learning of the Electric Response of Inorganic Materials" [PRX Intelligence](https://doi.org/10.1103/b116-xy8k)
+1. "SMACT v4: Enhanced Screening and Prediction Tools for Computational Materials Design" [Journal of Open Source Software (2026)](https://doi.org/10.21105/joss.11015)
+1. "Accelerating materials design with data science: general discussion" [Faraday Discussions (2026)](https://doi.org/10.1039/d6fd90035f)
+1. "Computational design and modelling of next generation optoelectronic materials: general discussion" [Faraday Discussions (2026)](https://doi.org/10.1039/d6fd90036d)
+1. "General Learning of the Electric Response of Inorganic Materials" [PRX Intelligence (2026)](https://doi.org/10.1103/b116-xy8k)
 1. "On the possibility of hybrid chalcogenide perovskite photovoltaics" [Faraday Discussions (2026)](https://doi.org/10.1039/D6FD00025H)
 1. "Revealing the Impact of Phase Transition on n=1 2D Perovskite Photodetectors With Intrinsically Tunable Narrowband Detection" [Small (2026)](https://doi.org/10.1002/smll.73312)
 
