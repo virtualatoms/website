@@ -19,6 +19,7 @@ draft: false
 
 
   ## 2026
+1. "Data generation for machine-learned force fields" [Digital Discovery (2026)](https://doi.org/10.1039/D6DD00059B)
 1. "SMACT v4: Enhanced Screening and Prediction Tools for Computational Materials Design" [Journal of Open Source Software (2026)](https://doi.org/10.21105/joss.11015)
 1. "Accelerating materials design with data science: general discussion" [Faraday Discussions (2026)](https://doi.org/10.1039/d6fd90035f)
 1. "Computational design and modelling of next generation optoelectronic materials: general discussion" [Faraday Discussions (2026)](https://doi.org/10.1039/d6fd90036d)
